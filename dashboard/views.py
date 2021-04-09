@@ -2,22 +2,36 @@ from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
 from django.db.models import Sum
 from django.http import JsonResponse
+from django.contrib.auth.models import User
 
 from pbx.models import Cdr, Cel
+from agenda.models import Note
 # Create your views here.
 @login_required
 def dashboard(request):
     
     user = request.user
-    cdr_answered = Cdr.objects.filter(disposition = 'ANSWERED').count()-1
+
+    # report CDR 
+    cdr_answered = Cdr.objects.filter(disposition = 'ANSWERED').count()
     cdr_no_answer = Cdr.objects.filter(disposition = 'NO ANSWER').count()
-    cdr_busy = Cdr.objects.filter(disposition = 'BUSY').count()-1
+    cdr_busy = Cdr.objects.filter(disposition = 'BUSY').count()
     cdr_failed = Cdr.objects.filter(disposition = 'FAILED').count()
+    cdr_duration = Cdr.objects.all().order_by('-calldate')[:1]
+
+    # All users
+    users = User.objects.all().count()
+    # Notes
+    note = Note.objects.all().count()
     context = {
         'cdr_answered': cdr_answered,
         'cdr_no_answer': cdr_no_answer,
         'cdr_busy': cdr_busy,
         'cdr_failed': cdr_failed,
+        'cdr_duration': cdr_duration,
+
+        'users': users,
+        'note': note
     }
     template_name = 'pages/dashboard/dashboard.html'
     return render(request, template_name, context)

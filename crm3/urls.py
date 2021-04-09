@@ -34,6 +34,7 @@ urlpatterns = [
     path('pbx/', include('pbx.urls')),
     path('agenda/', include('agenda.urls')),
     path('mail/', include('mail.urls')),
+    path('forms/', include('forms.urls')),
 ]
 
 if settings.DEBUG:

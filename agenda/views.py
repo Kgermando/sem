@@ -63,3 +63,9 @@ def note_detail(request, id):
     template_name = 'pages/agendas/note_detail.html'
     return render(request, template_name, context)
 
+
+class NoteDeleteView(generic.DeleteView):
+    model = Note
+    template_name = 'pages/agendas/remove_note.html'
+    success_url = reverse_lazy('agenda:note_view')
+

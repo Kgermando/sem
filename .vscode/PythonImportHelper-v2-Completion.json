@@ -176,6 +176,14 @@
         "documentation": {}
     },
     {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
@@ -401,6 +409,14 @@
         "documentation": {}
     },
     {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
         "label": "UserAdmin",
         "importPath": "django.contrib.auth.admin",
         "description": "django.contrib.auth.admin",
@@ -457,6 +473,14 @@
         "documentation": {}
     },
     {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
         "label": "Profile",
         "importPath": "accounts.models",
         "description": "accounts.models",
@@ -470,6 +494,14 @@
         "description": "accounts.models",
         "isExtraImport": true,
         "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
         "documentation": {}
     },
     {
@@ -617,6 +649,14 @@
         "documentation": {}
     },
     {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -674,6 +714,14 @@
     },
     {
         "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
         "isExtraImport": true,
@@ -825,6 +873,14 @@
         "documentation": {}
     },
     {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
         "label": "login_required",
         "importPath": "django.contrib.auth.decorators",
         "description": "django.contrib.auth.decorators",
@@ -889,6 +945,14 @@
         "documentation": {}
     },
     {
+        "label": "Note",
+        "importPath": "agenda.models",
+        "description": "agenda.models",
+        "isExtraImport": true,
+        "detail": "agenda.models",
+        "documentation": {}
+    },
+    {
         "label": "Session",
         "importPath": "django.contrib.sessions.models",
         "description": "django.contrib.sessions.models",
@@ -930,6 +994,14 @@
     },
     {
         "label": "note_detail",
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "isExtraImport": true,
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "NoteDeleteView",
         "importPath": "agenda.views",
         "description": "agenda.views",
         "isExtraImport": true,
@@ -1002,6 +1074,22 @@
     },
     {
         "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
         "importPath": "datetime",
         "description": "datetime",
         "isExtraImport": true,
@@ -1360,6 +1448,30 @@
         "description": "pbx.models",
         "isExtraImport": true,
         "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "basic_form",
+        "importPath": "forms.views",
+        "description": "forms.views",
+        "isExtraImport": true,
+        "detail": "forms.views",
+        "documentation": {}
+    },
+    {
+        "label": "step_form",
+        "importPath": "forms.views",
+        "description": "forms.views",
+        "isExtraImport": true,
+        "detail": "forms.views",
+        "documentation": {}
+    },
+    {
+        "label": "editor_form",
+        "importPath": "forms.views",
+        "description": "forms.views",
+        "isExtraImport": true,
+        "detail": "forms.views",
         "documentation": {}
     },
     {
@@ -1765,7 +1877,7 @@
         "kind": 5,
         "importPath": "agenda.urls",
         "description": "agenda.urls",
-        "peekOfCode": "app_name = 'agenda'\nurlpatterns = [\n    path('agenda_view/', agenda_view, name='agenda_view'),\n    path('agenda_detail/', agenda_detail, name='agenda_detail'),\n    path('notes/note_view/', note_view, name='note_view'),\n    path('notes/note_detail/<int:id>/', note_detail, name='note_detail'),\n]",
+        "peekOfCode": "app_name = 'agenda'\nurlpatterns = [\n    path('agenda_view/', agenda_view, name='agenda_view'),\n    path('agenda_detail/', agenda_detail, name='agenda_detail'),\n    path('notes/note_view/', note_view, name='note_view'),\n    path('notes/note_detail/<int:id>/', note_detail, name='note_detail'),\n    path('notes/<int:pk>/remove', NoteDeleteView.as_view(), name=\"remove_note\"),\n]",
         "detail": "agenda.urls",
         "documentation": {}
     },
@@ -1774,7 +1886,7 @@
         "kind": 5,
         "importPath": "agenda.urls",
         "description": "agenda.urls",
-        "peekOfCode": "urlpatterns = [\n    path('agenda_view/', agenda_view, name='agenda_view'),\n    path('agenda_detail/', agenda_detail, name='agenda_detail'),\n    path('notes/note_view/', note_view, name='note_view'),\n    path('notes/note_detail/<int:id>/', note_detail, name='note_detail'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('agenda_view/', agenda_view, name='agenda_view'),\n    path('agenda_detail/', agenda_detail, name='agenda_detail'),\n    path('notes/note_view/', note_view, name='note_view'),\n    path('notes/note_detail/<int:id>/', note_detail, name='note_detail'),\n    path('notes/<int:pk>/remove', NoteDeleteView.as_view(), name=\"remove_note\"),\n]",
         "detail": "agenda.urls",
         "documentation": {}
     },
@@ -1851,6 +1963,15 @@
         "documentation": {}
     },
     {
+        "label": "NoteDeleteView",
+        "kind": 6,
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "peekOfCode": "class NoteDeleteView(generic.DeleteView):\n    model = Note\n    template_name = 'pages/agendas/remove_note.html'\n    success_url = reverse_lazy('agenda:note_view')",
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
         "label": "agenda_view",
         "kind": 2,
         "importPath": "agenda.views",
@@ -1882,7 +2003,7 @@
         "kind": 2,
         "importPath": "agenda.views",
         "description": "agenda.views",
-        "peekOfCode": "def note_detail(request, id):\n    note = Note.objects.get(id=id)\n    context = {\n        'note': note\n    }\n    template_name = 'pages/agendas/note_detail.html'\n    return render(request, template_name, context)",
+        "peekOfCode": "def note_detail(request, id):\n    note = Note.objects.get(id=id)\n    context = {\n        'note': note\n    }\n    template_name = 'pages/agendas/note_detail.html'\n    return render(request, template_name, context)\nclass NoteDeleteView(generic.DeleteView):\n    model = Note\n    template_name = 'pages/agendas/remove_note.html'",
         "detail": "agenda.views",
         "documentation": {}
     },
@@ -2071,7 +2192,7 @@
         "kind": 5,
         "importPath": "crm3.settings",
         "description": "crm3.settings",
-        "peekOfCode": "DATABASES = DATABASES_SQLITE\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "peekOfCode": "DATABASES = DATABASES_MARIADB\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
         "detail": "crm3.settings",
         "documentation": {}
     },
@@ -2260,7 +2381,7 @@
         "kind": 5,
         "importPath": "crm3.urls",
         "description": "crm3.urls",
-        "peekOfCode": "handler503 = 'crm3.views_errors_page.handler503'\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),\n    path('mail/', include('mail.urls')),\n]",
+        "peekOfCode": "handler503 = 'crm3.views_errors_page.handler503'\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),\n    path('mail/', include('mail.urls')),\n    path('forms/', include('forms.urls')),",
         "detail": "crm3.urls",
         "documentation": {}
     },
@@ -2269,7 +2390,7 @@
         "kind": 5,
         "importPath": "crm3.urls",
         "description": "crm3.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),\n    path('mail/', include('mail.urls')),\n]\nif settings.DEBUG:",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),\n    path('mail/', include('mail.urls')),\n    path('forms/', include('forms.urls')),\n]",
         "detail": "crm3.urls",
         "documentation": {}
     },
@@ -2404,7 +2525,7 @@
         "kind": 2,
         "importPath": "dashboard.views",
         "description": "dashboard.views",
-        "peekOfCode": "def dashboard(request):\n    user = request.user\n    cdr_answered = Cdr.objects.filter(disposition = 'ANSWERED').count()-1\n    cdr_no_answer = Cdr.objects.filter(disposition = 'NO ANSWER').count()\n    cdr_busy = Cdr.objects.filter(disposition = 'BUSY').count()-1\n    cdr_failed = Cdr.objects.filter(disposition = 'FAILED').count()\n    context = {\n        'cdr_answered': cdr_answered,\n        'cdr_no_answer': cdr_no_answer,\n        'cdr_busy': cdr_busy,",
+        "peekOfCode": "def dashboard(request):\n    user = request.user\n    # report CDR \n    cdr_answered = Cdr.objects.filter(disposition = 'ANSWERED').count()\n    cdr_no_answer = Cdr.objects.filter(disposition = 'NO ANSWER').count()\n    cdr_busy = Cdr.objects.filter(disposition = 'BUSY').count()\n    cdr_failed = Cdr.objects.filter(disposition = 'FAILED').count()\n    cdr_duration = Cdr.objects.all().order_by('-calldate')[:1]\n    # All users\n    users = User.objects.all().count()",
         "detail": "dashboard.views",
         "documentation": {}
     },
@@ -2415,6 +2536,60 @@
         "description": "dashboard.views",
         "peekOfCode": "def population_chart(request):\n    labels = []\n    data = []\n    queryset = Cdr.objects.values('country__name').annotate(country_population=Sum('population')).order_by('-country_population')\n    for entry in queryset:\n        labels.append(entry['country__name'])\n        data.append(entry['country_population'])\n    return JsonResponse(data={\n        'labels': labels,\n        'data': data,",
         "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "FormsConfig",
+        "kind": 6,
+        "importPath": "forms.apps",
+        "description": "forms.apps",
+        "peekOfCode": "class FormsConfig(AppConfig):\n    name = 'forms'",
+        "detail": "forms.apps",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "forms.urls",
+        "description": "forms.urls",
+        "peekOfCode": "app_name = 'forms'\nurlpatterns = [\n    path('forms/basic_form/', basic_form, name='basic_form'),\n    path('forms/step_form/', step_form, name='step_form'),\n    path('forms/editor_form/', editor_form, name='editor_form'),\n]",
+        "detail": "forms.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "forms.urls",
+        "description": "forms.urls",
+        "peekOfCode": "urlpatterns = [\n    path('forms/basic_form/', basic_form, name='basic_form'),\n    path('forms/step_form/', step_form, name='step_form'),\n    path('forms/editor_form/', editor_form, name='editor_form'),\n]",
+        "detail": "forms.urls",
+        "documentation": {}
+    },
+    {
+        "label": "basic_form",
+        "kind": 2,
+        "importPath": "forms.views",
+        "description": "forms.views",
+        "peekOfCode": "def basic_form(request):\n    context = {}\n    template_name = 'pages/forms/basic_form.html'\n    return render(request, template_name, context)\ndef step_form(request):\n    context = {}\n    template_name = 'pages/forms/step_form.html'\n    return render(request, template_name, context)\ndef editor_form(request):\n    context = {}",
+        "detail": "forms.views",
+        "documentation": {}
+    },
+    {
+        "label": "step_form",
+        "kind": 2,
+        "importPath": "forms.views",
+        "description": "forms.views",
+        "peekOfCode": "def step_form(request):\n    context = {}\n    template_name = 'pages/forms/step_form.html'\n    return render(request, template_name, context)\ndef editor_form(request):\n    context = {}\n    template_name = 'pages/forms/editor_form.html'\n    return render(request, template_name, context)",
+        "detail": "forms.views",
+        "documentation": {}
+    },
+    {
+        "label": "editor_form",
+        "kind": 2,
+        "importPath": "forms.views",
+        "description": "forms.views",
+        "peekOfCode": "def editor_form(request):\n    context = {}\n    template_name = 'pages/forms/editor_form.html'\n    return render(request, template_name, context)",
+        "detail": "forms.views",
         "documentation": {}
     },
     {

@@ -2,6 +2,7 @@ from django.db import models
 from datetime import time, datetime
 from random import randint, choice
 import string
+from datetime import datetime, timedelta
 
 from pbx.extensionsApps import APPS, MUSICONHOLD
 # Create your models here.
@@ -389,6 +390,10 @@ class Cdr(models.Model):
 
     class Meta:
         db_table = 'cdr'
+    
+    def billsec_norm(obj):
+        return timedelta(seconds=obj.billsec)
+    billsec_norm.short_description = u'Min.'
 
 
 class IvrDetails(models.Model):

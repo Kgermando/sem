@@ -40,9 +40,14 @@
                                                     {{note.created_date}}
                                                 </div>
                                                 <div>
+                                                    <!-- {{ forloop.counter }} -->
                                                     <a href='{{note.get_absolute_url}} ' class="">{{note.title}}</a>
                                                 </div>
-                                                <label><i></i><a href='#' class="ti-close p-2"></a></label>
+                                                <div>
+                                                    <a href="{% url 'agenda:remove_note' note.id %}" class="p-2">
+                                                        <i class="fa fa-times" aria-hidden="true"></i>
+                                                    </a>
+                                                </div>
                                             </li> 
                                         {% endfor %}
                                             

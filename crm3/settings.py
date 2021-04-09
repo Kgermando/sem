@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'accounts',
     'mail',
     'agenda',
+    'forms',
 ]
 
 MIDDLEWARE = [
@@ -117,7 +118,7 @@ DATABASES_MARIADB = {
     }
 }
 
-DATABASES = DATABASES_SQLITE
+DATABASES = DATABASES_MARIADB
 
 
 # Password validation
