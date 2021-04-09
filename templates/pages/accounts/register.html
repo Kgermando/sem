@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Inscrivez-vous{% endblock title %}
+
+{% block accounts %}
+<div class="login-form-bg h-100">
+  <div class="container h-100">
+    <div class="row justify-content-center h-100">
+      <div class="col-xl-6">
+        <div class="form-input-content">
+          <div class="card login-form mb-0">
+            <div class="card-body pt-5">
+              {% include 'notifications/_alerts.html' %}
+              <h4>
+                <img src="{% static 'images/suh.png' %} " height="100px" width="150px" alt="suh">
+              </h4>
+
+              <form action="{% url 'register' %}" method="POST" class="mt-5 mb-5 login-input">
+                  {% csrf_token %}
+                <div class="form-group">
+                  <input type="text" name="first_name" class="form-control" placeholder="Nom" required>
+                </div>
+                <div class="form-group">
+                  <input type="text" name="last_name" class="form-control" placeholder="Post-Nom" onfocus="this.placeholder = ''"
+                    onblur="this.placeholder = 'Post-Nom'" required class="single-input">
+                </div>
+                <div class="form-group">
+                  <input type="text" name="username" class="form-control" placeholder="Prénom" onfocus="this.placeholder = ''"
+                    onblur="this.placeholder = 'Prénom'" required class="single-input">
+                </div>
+                <div class="form-group">
+                  <input type="email" name="email" class="form-control" placeholder="Email address" onfocus="this.placeholder = ''"
+                    onblur="this.placeholder = 'Email address'" required class="single-input">
+                </div>
+                <div class="form-group">
+                  <input type="password" name="password" class="form-control" placeholder="Password" onfocus="this.placeholder = ''"
+                    onblur="this.placeholder = 'Password'" required class="single-input">
+                </div>
+                <div class="form-group">
+                  <input type="password" name="password2" class="form-control" placeholder="Répéter votre mot de passe" onfocus="this.placeholder = ''"
+                    onblur="this.placeholder = 'Répéter votre mot de passe'" required class="single-input">
+                </div>
+                
+                <!-- <input type="submit" value="S'enregister" class="genric-btn success-border" style="width:100%;"> -->
+                
+                <input type="submit" value="Créez votre compte"
+                  class="btn header-btn btn-rounded btn-4 font-weight-semibold mx-auto btn-v-4 btn-h-5" name="submit_button"
+                  id="submit_button" data-loading-text="Loading...">
+
+                <button type="submit" id="submit_button" class="btn login-form__btn submit w-100">Inscription</button>
+              </form>
+              <p class="mt-5 login-form__footer">Have account <a href="{% url 'login' %}" class="text-primary">Login
+                </a> now</p>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock accounts %}
+

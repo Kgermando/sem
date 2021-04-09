@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="fr">
+{% load static %}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>CRM | {% block title %}{% endblock title %}</title>
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="{% static 'images/favicon.png' %}">
+
+    <!-- Chartist -->
+    <link rel="stylesheet" href="{% static 'plugins/chartist/css/chartist.min.css' %}">
+    <link rel="stylesheet" href="{% static 'plugins/chartist-plugin-tooltips/css/chartist-plugin-tooltip.css' %}">
+
+    <link href="{% static 'plugins/summernote/dist/summernote.css' %}" rel="stylesheet">
+
+        <!-- Pignose Calender -->
+    <link href="{% static 'plugins/pg-calendar/css/pignose.calendar.min.css' %}" rel="stylesheet">
+    <link href="{% static 'plugins/fullcalendar/css/fullcalendar.min.css' %}" rel="stylesheet">
+
+    <link href="{% static 'plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css' %}" rel="stylesheet">
+    <!-- Page plugins css -->
+    <link href="{% static 'plugins/clockpicker/dist/jquery-clockpicker.min.css' %}" rel="stylesheet">
+    <!-- Color picker plugins css -->
+    <link href="{% static 'plugins/jquery-asColorPicker-master/css/asColorPicker.css' %}" rel="stylesheet">
+    <!-- Date picker plugins css -->
+    <link href="{% static 'plugins/bootstrap-datepicker/bootstrap-datepicker.min.css' %}" rel="stylesheet">
+    <!-- Daterange picker plugins css -->
+    <link href="{% static 'plugins/timepicker/bootstrap-timepicker.min.css' %}" rel="stylesheet">
+
+    <link href="{% static 'plugins/bootstrap-daterangepicker/daterangepicker.css' %}" rel="stylesheet">
+
+    <link href="{% static 'plugins/jquery-steps/css/jquery.steps.css' %}" rel="stylesheet">
+
+    <link rel="stylesheet" href="{% static 'plugins/highlightjs/styles/darkula.css' %}">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+        integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+    <link href="{% static 'plugins/tables/css/datatable/dataTables.bootstrap4.min.css' %}" rel="stylesheet">
+
+    <link href="{% static 'plugins/nestable/css/nestable.css' %}" rel="stylesheet">
+    
+    <link rel="stylesheet" href="{% static 'plugins/nouislider/nouislider.min.css' %}">  
+
+    <link href="{% static 'plugins/sweetalert/css/sweetalert.css' %}" rel="stylesheet">
+
+    <link href="{% static 'plugins/toastr/css/toastr.min.css' %}" rel="stylesheet">
+
+    <!-- Custom Stylesheet -->
+    <link href="{% static 'css/style.css' %}" rel="stylesheet">
+</head>
+
+<body>
+
+    <!--*******************
+        Preloader start
+    ********************-->
+    <div id="preloader">
+        <div class="loader">
+            <svg class="circular" viewBox="25 25 50 50">
+                <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="3" stroke-miterlimit="10" />
+            </svg>
+        </div>
+    </div>
+    <!--*******************
+        Preloader end
+    ********************-->
+
+
+    <!--**********************************
+        Main wrapper start
+    ***********************************-->
+    <div id="main-wrapper">
+
+        <!--**********************************
+            Nav header start
+        ***********************************-->
+            {% include 'nav/header.html' %}
+        <!--**********************************
+            Header end ti-comment-alt
+        ***********************************-->
+
+        <!--**********************************
+            Sidebar start
+        ***********************************-->
+            {% include 'nav/sidebar.html' %}
+        <!--**********************************
+            Sidebar end
+        ***********************************-->
+
+        <!--**********************************
+            Content body start
+        ***********************************-->
+            
+            {% block content %} {% endblock content %}
+            
+        <!--**********************************
+            Content body end
+        ***********************************-->
+
+
+        <!--**********************************
+            Footer start
+        ***********************************-->
+            {% include 'nav/footer.html' %}
+        <!--**********************************
+            Footer end
+        ***********************************-->
+    </div>
+    <!--**********************************
+        Main wrapper end
+    ***********************************-->
+
+    <!--**********************************
+        Scripts
+    ***********************************-->
+    <script src="{% static 'plugins/common/common.min.js' %} "></script>
+    <script src="{% static 'js/custom.min.js' %} "></script>
+    <script src="{% static 'js/settings.js' %} "></script>
+    <script src="{% static 'js/gleek.js' %} "></script>
+    <script src="{% static 'js/styleSwitcher.js' %} "></script>
+
+    <!-- Chartjs -->
+    <script src="{% static 'plugins/chart.js/Chart.bundle.min.js' %}"></script>
+    <!-- Circle progress -->
+    <script src="{% static 'plugins/circle-progress/circle-progress.min.js' %}"></script>
+    <!-- Datamap -->
+    <script src="{% static 'plugins/d3v3/index.js' %}"></script>
+    <script src="{% static 'plugins/topojson/topojson.min.js' %}"></script>
+    <script src="{% static 'plugins/datamaps/datamaps.world.min.js' %}"></script>
+    <!-- Morrisjs -->
+    <script src="{% static 'plugins/raphael/raphael.min.js' %}"></script>
+    <script src="{% static 'plugins/morris/morris.min.js' %}"></script>
+    <script src="{% static 'js/plugins-init/morris-init.js' %}"></script>
+
+    <!-- Pignose Calender -->
+    <script src="{% static 'plugins/moment/moment.min.js' %}"></script>
+    <script src="{% static 'plugins/pg-calendar/js/pignose.calendar.min.js' %}"></script>
+    <script src="{% static 'plugins/jqueryui/js/jquery-ui.min.js' %}"></script>
+    <script src="{% static 'plugins/fullcalendar/js/fullcalendar.min.js' %}"></script>
+    <script src="{% static 'js/plugins-init/fullcalendar-init.js' %}"></script>
+
+    <!-- ChartistJS -->
+    <script src="{% static 'plugins/chartist/js/chartist.min.js' %}"></script>
+    <script src="{% static 'plugins/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js' %}"></script>
+    <script src="{% static 'js/plugins-init/chartist.init.js' %}"></script>
+    <script src="{% static 'plugins/chart.js/Chart.bundle.min.js' %}"></script>
+    <script src="{% static 'js/plugins-init/chartjs-init.js' %}"></script>
+
+    <!--  flot-chart js -->
+    <script src="{% static 'plugins/flot/js/jquery.flot.min.js' %}"></script>
+    <script src="{% static 'plugins/flot/js/jquery.flot.pie.js' %}"></script>
+    <script src="{% static 'plugins/flot/js/jquery.flot.resize.js' %}"></script>
+    <script src="{% static 'plugins/flot/js/jquery.flot.spline.js' %}"></script>
+    <script src="{% static 'plugins/flot/js/jquery.flot.init.js' %}"></script>
+    
+    <script src="{% static 'plugins/peity/jquery.peity.min.js' %}"></script>
+    <script src="{% static 'js/plugins-init/peitychart.init.js' %}"></script>
+
+    <script src="{% static 'plugins/jquery-sparkline/jquery.sparkline.min.js' %}"></script>
+    <script src="{% static 'js/plugins-init/sparkline.init.js' %}"></script>
+
+    <script src="{% static 'plugins/summernote/dist/summernote.min.js' %}"></script>
+    <script src="{% static 'plugins/summernote/dist/summernote-init.js' %}"></script>
+
+    <script src="{% static 'plugins/moment/moment.js' %}"></script>
+    <script src="{% static 'plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js' %}"></script>
+
+    <!-- Clock Plugin JavaScript -->
+    <script src="{% static 'plugins/clockpicker/dist/jquery-clockpicker.min.js' %}"></script>
+
+    <!-- Color Picker Plugin JavaScript -->
+    <script src="{% static 'plugins/jquery-asColorPicker-master/libs/jquery-asColor.js' %}"></script>
+    <script src="{% static 'plugins/jquery-asColorPicker-master/libs/jquery-asGradient.js' %}"></script>
+    <script src="{% static 'plugins/jquery-asColorPicker-master/dist/jquery-asColorPicker.min.js' %}"></script>
+
+    <!-- Date Picker Plugin JavaScript -->
+    <script src="{% static 'plugins/bootstrap-datepicker/bootstrap-datepicker.min.js' %}"></script>
+
+    <!-- Date range Plugin JavaScript -->
+    <script src="{% static 'plugins/timepicker/bootstrap-timepicker.min.js' %}"></script>
+    <script src="{% static 'plugins/bootstrap-daterangepicker/daterangepicker.js' %}"></script>
+    
+    <script src="{% static 'js/plugins-init/form-pickers-init.js' %}"></script>
+
+    <script src="{% static 'plugins/jquery-steps/build/jquery.steps.min.js' %}"></script>
+    <script src="{% static 'plugins/jquery-validation/jquery.validate.min.js' %}"></script>
+    <script src="{% static 'js/plugins-init/jquery-steps-init.js' %}"></script>
+
+
+    <script src="{% static 'plugins/validation/jquery.validate.min.js' %}"></script>
+    <script src="{% static 'plugins/validation/jquery.validate-init.js' %}"></script>
+
+    <script src="{% static 'plugins/highlightjs/highlight.pack.min.js' %}"></script>
+
+    <script src="{% static 'plugins/tables/js/jquery.dataTables.min.js' %}"></script>
+    <script src="{% static 'plugins/tables/js/datatable/dataTables.bootstrap4.min.js' %}"></script>
+    <script src="{% static 'plugins/tables/js/datatable-init/datatable-basic.min.js' %}"></script>
+
+    <script src="{% static 'plugins/nestable/js/jquery.nestable.js' %}"></script>
+    <script src="{% static 'plugins/nestable/js/nestable.init.js' %}"></script>
+
+    <script src="{% static 'plugins/nouislider/nouislider.min.js' %}"></script>
+    <script src="{% static 'plugins/wnumb/wNumb.js' %}"></script>
+    <script src="{% static 'js/plugins-init/nouislider-init.js' %}"></script>
+
+    <script src="{% static 'plugins/sweetalert/js/sweetalert.min.js' %}"></script>
+    <script src="{% static 'plugins/sweetalert/js/sweetalert.init.js' %}"></script>
+
+    <!-- Toastr -->
+    <script src="{% static 'plugins/toastr/js/toastr.min.js' %}"></script>
+    <script src="{% static 'plugins/toastr/js/toastr.init.js' %}"></script>
+
+
+    <script src="{% static 'js/dashboard/dashboard-1.js' %}"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+    <script>
+        $('#summernote').summernote({
+            placeholder: 'Bonjour je suis un editeur doté des outils des mises en forme comme microsoft word. Faites vous plaisir.',
+            tabsize: 2,
+            height: 120,
+            toolbar: [
+                ['style', ['style']],
+                ['font', ['bold', 'underline', 'clear']],
+                ['color', ['color']],
+                ['para', ['ul', 'ol', 'paragraph']],
+                ['table', ['table']],
+                ['view', ['fullscreen', 'codeview', 'help']]
+            ]
+        });
+    </script>
+
+
+
+</body>
+
+</html>

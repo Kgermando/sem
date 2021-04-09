@@ -1,0 +1,104 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Dashboard{% endblock title %}
+
+
+{% block content %}
+
+<!--**********************************
+                Content body start
+            ***********************************-->
+<div class="content-body">
+
+    <div class="row page-titles mx-0">
+        <div class="col p-md-0">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="javascript:void(0)">Dashboard</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">PBX</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">Appels</a></li>
+            </ol>
+        </div>
+    </div>
+    <!-- row -->
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <div class="d-sm-flex justify-content-between mb-2">
+                                <h4>Call Detail Recording</h4>
+                                <div class="media-reply__link">
+                                    <button class="btn btn-transparent p-0 mr-3"><i class="fa fa-thumbs-up"></i></button>
+                                    <button class="btn btn-transparent p-0 mr-3"><i class="fa fa-thumbs-down"></i></button>
+                                    <button class="btn btn-transparent p-0 ml-3 font-weight-bold">
+                                        <i class="fa fa-download" aria-hidden="true"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>calldate</th>
+                                        <th>clid</th>
+                                        <th>src</th>
+                                        <th>dst</th>
+                                        <th>duration</th>
+                                        <th>billsec</th>
+                                        <th>disposition</th>
+                                        <th>amaflags</th>
+                                        <th>uniqueid</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    
+                                    {% for cdr in cdr_list %}
+                                        <tr>
+                                            <th><a href="{% url 'pbx:cdr_detail' cdr.uniqueid %} ">{{cdr.calldate|timesince}}</a></th>
+                                            <td>{{cdr.clid}}</td>
+                                            <td>{{cdr.src}}</td>
+                                            <td>{{cdr.dst}}</td>
+                                            <td>{{cdr.duration}}</td>
+                                            <td>{{cdr.billsec}}</td>
+                                            <td>{{cdr.disposition}}</td>
+                                            
+                                            <!-- {% if cdr.disposition == "ANSWERED" %}
+                                                <td class="color-success">{{cdr.disposition}}</td>
+                                            {% elif cdr.disposition == "NO ANSWER" %}
+                                                <td class="color-primary">{{cdr.disposition}}</td>
+                                            {% elif cdr.disposition == "FAILED" %}
+                                                <td class="color-danger">{{cdr.disposition}}</td>
+                                            {% elif cdr.disposition == "BUSY" %}
+                                                <td class="color-warning">{{cdr.BUSY}}</td>
+                                            {% elif cdr.disposition == "BILL" %}
+                                                <td class="color-primary">{{cdr.disposition}}</td>
+                                            {% endif %} -->
+                                                
+                                  
+                                            <td>{{cdr.amaflags}}</td>
+                                            <td>{{cdr.uniqueid}}</td>
+                                        </tr> 
+                                    {% endfor %}
+                                        
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!-- /# card -->
+            </div> 
+        </div>
+        
+    </div>
+    <!-- #/ container -->
+</div>
+<!--**********************************
+                Content body end
+            ***********************************-->
+
+
+{% endblock content %}

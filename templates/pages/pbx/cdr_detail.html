@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}{{cdr.src}}{% endblock title %}
+
+
+{% block content %}
+
+<!--**********************************
+                Content body start
+            ***********************************-->
+<div class="content-body">
+
+    <div class="row page-titles mx-0">
+        <div class="col p-md-0">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="javascript:void(0)">Dashboard</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">PBX</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">cdr</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">{{cdr.uniqueid}}</a></li>
+            </ol>
+        </div>
+    </div>
+    <!-- row -->
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h2>Appel de <strong>{{cdr.src}}</strong> Il y a: {{cdr.calldate|timesince}}</h2>
+                        </div>
+                        <div class="">
+                            <ul>
+                                <li><strong>uniqueid:</strong> {{cdr.uniqueid}}</li>
+                                <li><strong>src:</strong> {{cdr.src}}</li>
+                                <li><strong>dst:</strong> {{cdr.dst}}</li>
+                                <li><strong>dcontext:</strong> {{cdr.dcontext}}</li>
+                                <li><strong>channel:</strong> {{cdr.channel}}</li>
+                                <li><strong>dstchannel:</strong> {{cdr.dstchannel}}</li>
+                                <li><strong>lastapp:</strong> {{cdr.lastapp}}</li>
+                                <li><strong>lastdata:</strong> {{cdr.lastdata}}</li>
+                                <li><strong>duration:</strong> {{cdr.duration}}</li>
+                                <li><strong>billsec:</strong> {{cdr.billsec}}</li>
+                                <li><strong>disposition:</strong> {{cdr.disposition}}</li>
+                                <li><strong>amaflags:</strong> {{cdr.amaflags}}</li>
+                                <li><strong>accountcode:</strong> {{cdr.accountcode}}</li>
+                                <li><strong>userfield:</strong> {{cdr.userfield}}</li>
+                                <li><strong>did:</strong> {{cdr.did}}</li>
+                                <li><strong>recordingfile:</strong> {{cdr.recordingfile}}</li>
+                                <li><strong>cnum:</strong> {{cdr.cnum}}</li>
+                                <li><strong>cnam:</strong> {{cdr.cnam}}</li>
+                                <li><strong>outbound_cnum:</strong> {{cdr.outbound_cnum}}</li>
+                                <li><strong>outbound_cnam:</strong> {{cdr.outbound_cnam}}</li>
+                                <li><strong>dst_cnam:</strong> {{cdr.dst_cnam}}</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+    <!-- #/ container -->
+</div>
+<!--**********************************
+                Content body end
+            ***********************************-->
+
+
+{% endblock content %}

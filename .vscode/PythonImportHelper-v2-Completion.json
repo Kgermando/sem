@@ -1,0 +1,3077 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "importPath": "django.contrib.auth.admin",
+        "description": "django.contrib.auth.admin",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.admin",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile_edit",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "ModelForm",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "DateInput",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Note",
+        "importPath": "agenda.models",
+        "description": "agenda.models",
+        "isExtraImport": true,
+        "detail": "agenda.models",
+        "documentation": {}
+    },
+    {
+        "label": "THEME",
+        "importPath": "agenda.models",
+        "description": "agenda.models",
+        "isExtraImport": true,
+        "detail": "agenda.models",
+        "documentation": {}
+    },
+    {
+        "label": "Note",
+        "importPath": "agenda.models",
+        "description": "agenda.models",
+        "isExtraImport": true,
+        "detail": "agenda.models",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "django.contrib.sessions.models",
+        "description": "django.contrib.sessions.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.sessions.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "agenda_view",
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "isExtraImport": true,
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "agenda_detail",
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "isExtraImport": true,
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "note_view",
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "isExtraImport": true,
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "note_detail",
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "isExtraImport": true,
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLCalendar",
+        "importPath": "calendar",
+        "description": "calendar",
+        "isExtraImport": true,
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "eventcalendar.helper",
+        "description": "eventcalendar.helper",
+        "isExtraImport": true,
+        "detail": "eventcalendar.helper",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseNotFound",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "generic",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "mark_safe",
+        "importPath": "django.utils.safestring",
+        "description": "django.utils.safestring",
+        "isExtraImport": true,
+        "detail": "django.utils.safestring",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "NoteForm",
+        "importPath": "agenda.forms",
+        "description": "agenda.forms",
+        "isExtraImport": true,
+        "detail": "agenda.forms",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "importPath": "app.views",
+        "description": "app.views",
+        "isExtraImport": true,
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "RequestContext",
+        "importPath": "django.template",
+        "description": "django.template",
+        "isExtraImport": true,
+        "detail": "django.template",
+        "documentation": {}
+    },
+    {
+        "label": "page_not_found",
+        "importPath": "django.views.defaults",
+        "description": "django.views.defaults",
+        "isExtraImport": true,
+        "detail": "django.views.defaults",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "isExtraImport": true,
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cdr",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cel",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ps_aors",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ps_auths",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Endpoints",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contexts",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Extensions",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cdr",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cel",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "IvrDetails",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contacts",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "AsteriskPublication",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Endpoints_id_ips",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QueueMember",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QueuesConfig",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QueueRules",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sip_conf",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sippeers",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "VoiceMail",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cdr",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "mail_inbox",
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "isExtraImport": true,
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "mail_write",
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "isExtraImport": true,
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "mail_read",
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "isExtraImport": true,
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact_us",
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "isExtraImport": true,
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "operator",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "operator",
+        "description": "operator",
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "compile",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "QuerySet",
+        "importPath": "django.db.models.query",
+        "description": "django.db.models.query",
+        "isExtraImport": true,
+        "detail": "django.db.models.query",
+        "documentation": {}
+    },
+    {
+        "label": "smart_str",
+        "importPath": "django.utils.encoding",
+        "description": "django.utils.encoding",
+        "isExtraImport": true,
+        "detail": "django.utils.encoding",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "APPS",
+        "importPath": "pbx.extensionsApps",
+        "description": "pbx.extensionsApps",
+        "isExtraImport": true,
+        "detail": "pbx.extensionsApps",
+        "documentation": {}
+    },
+    {
+        "label": "MUSICONHOLD",
+        "importPath": "pbx.extensionsApps",
+        "description": "pbx.extensionsApps",
+        "isExtraImport": true,
+        "detail": "pbx.extensionsApps",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_view",
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "isExtraImport": true,
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_detail",
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "isExtraImport": true,
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0001_initial",
+        "description": "accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0002_profile_role",
+        "description": "accounts.migrations.0002_profile_role",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='role',\n            field=models.PositiveSmallIntegerField(blank=True, choices=[(1, 'Admin'), (2, 'Supervisor'), (3, 'Agent'), (4, 'Client')], null=True),\n        ),",
+        "detail": "accounts.migrations.0002_profile_role",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0003_auto_20210406_1243",
+        "description": "accounts.migrations.0003_auto_20210406_1243",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0002_profile_role'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='profile',\n            name='birthday',\n        ),\n        migrations.AddField(",
+        "detail": "accounts.migrations.0003_auto_20210406_1243",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0004_auto_20210406_1353",
+        "description": "accounts.migrations.0004_auto_20210406_1353",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0003_auto_20210406_1243'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='profile',\n            name='contact_no',\n            field=models.CharField(max_length=13, null=True),\n        ),",
+        "detail": "accounts.migrations.0004_auto_20210406_1353",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileInline",
+        "kind": 6,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "class ProfileInline(admin.StackedInline):\n    model = Profile\n    can_delete = False\n    verbose_name_plural = 'Profile'\n    fk_name = 'user'\nclass CustomUserAdmin(UserAdmin):\n    inlines = (ProfileInline, )\n    list_display = ('username', 'email', 'first_name', 'last_name', 'is_staff', 'get_job')\n    list_select_related = ('profile', )\n    def get_job(self, instance):",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserAdmin",
+        "kind": 6,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "class CustomUserAdmin(UserAdmin):\n    inlines = (ProfileInline, )\n    list_display = ('username', 'email', 'first_name', 'last_name', 'is_staff', 'get_job')\n    list_select_related = ('profile', )\n    def get_job(self, instance):\n        return instance.profile.job\n    get_job.short_description = 'Job'\n    def get_inline_instances(self, request, obj=None):\n        if not obj:\n            return list()",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_header",
+        "kind": 5,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "admin.site.site_header = 'PBX ADMIN'\nadmin.site.site_title = \"Interface d'administration des comptes\"\nfrom accounts.models import Profile\n# Register your models here.\nclass ProfileInline(admin.StackedInline):\n    model = Profile\n    can_delete = False\n    verbose_name_plural = 'Profile'\n    fk_name = 'user'\nclass CustomUserAdmin(UserAdmin):",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "admin.site.site_title",
+        "kind": 5,
+        "importPath": "accounts.admin",
+        "description": "accounts.admin",
+        "peekOfCode": "admin.site.site_title = \"Interface d'administration des comptes\"\nfrom accounts.models import Profile\n# Register your models here.\nclass ProfileInline(admin.StackedInline):\n    model = Profile\n    can_delete = False\n    verbose_name_plural = 'Profile'\n    fk_name = 'user'\nclass CustomUserAdmin(UserAdmin):\n    inlines = (ProfileInline, )",
+        "detail": "accounts.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SignInForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class SignInForm(forms.ModelForm):\n    class Meta:\n        field = ('username', 'password')\n        model = User\n    username = forms.CharField(\n        label = 'Username',\n        required = True,\n        widget = forms.TextInput(\n            attrs = {\n                \"class\": \"form-control\",",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class Profile(models.Model):\n    ADMIN = 1\n    SUPERVISOR = 2\n    AGENT = 3\n    CLIENT = 4\n    ROLE_CHOICES = (\n        (ADMIN, 'Admin'),\n        (SUPERVISOR, 'Supervisor'),\n        (AGENT, 'Agent'),\n        (CLIENT, 'Client'),",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_or_update_user_profile",
+        "kind": 2,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "def create_or_update_user_profile(sender, instance, created, **kwargs):\n    if created:\n        Profile.objects.create(user=instance)\n    instance.profile.save()",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', login_view, name='login'),\n    path('register/', register_view, name='register'), \n    path('logout/', logout_view, name='logout'),\n    path('profile/', profile, name='profile'),\n    path('profile_edit/<int:pk>/user', profile, name='profile_edit'),\n]",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def login_view(request):\n    if request.method == 'POST':\n        username = request.POST['username']\n        password = request.POST['password']\n        user = auth.authenticate(username=username, password=password)\n        if user is not None:\n            auth.login(request, user)\n            messages.success(request,\"! vous êtes authentifiés!! .\")\n            return redirect('dashboard:dashboard')\n        else:",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def register_view(request):\n    if request.method == 'POST':\n        # Get form vales\n        first_name = request.POST['first_name']\n        last_name = request.POST['last_name']\n        username = request.POST['username']\n        email = request.POST['email']\n        # statut = request.POST['statut']\n        password = request.POST['password']\n        password2 = request.POST['password2']",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def logout_view(request):\n    if request.method == 'GET':\n        auth.logout(request)\n        messages.success(request, \"Vous êtes déconnecté.\")\n        return redirect('login')\n    else:\n        return redirect('login')\n@login_required\ndef profile(request):\n    # user = request.user",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def profile(request):\n    # user = request.user\n    # profile = Profile.objects.get(id=user.pk)\n    profile = Profile.objects.get(user=request.user)\n    context = {\n        'profile': profile\n    }\n    template_name='pages/accounts/profile.html'\n    return render(request, template_name, context)\n@login_required",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile_edit",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def profile_edit(request):\n    pk = request.user\n    profile = Profile.objects.get(pk=pk)\n    # if request.method=='POST':\n    # try:\n    #     profile=Profile.objects.get(user=request.user)\n    # except:\n    #     profile=Profile()\n    #     profile.user=request.user\n    # profile.profile_picture=request.FILES['photo']",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "agenda.migrations.0001_initial",
+        "description": "agenda.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Event',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "agenda.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "agenda.migrations.0002_auto_20210408_2223",
+        "description": "agenda.migrations.0002_auto_20210408_2223",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('agenda', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='NoteMember',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "agenda.migrations.0002_auto_20210408_2223",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "agenda.migrations.0003_auto_20210408_2333",
+        "description": "agenda.migrations.0003_auto_20210408_2333",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('agenda', '0002_auto_20210408_2223'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='note',\n            name='end_time',\n        ),\n        migrations.RemoveField(",
+        "detail": "agenda.migrations.0003_auto_20210408_2333",
+        "documentation": {}
+    },
+    {
+        "label": "AgendaConfig",
+        "kind": 6,
+        "importPath": "agenda.apps",
+        "description": "agenda.apps",
+        "peekOfCode": "class AgendaConfig(AppConfig):\n    name = 'agenda'",
+        "detail": "agenda.apps",
+        "documentation": {}
+    },
+    {
+        "label": "NoteForm",
+        "kind": 6,
+        "importPath": "agenda.forms",
+        "description": "agenda.forms",
+        "peekOfCode": "class NoteForm(ModelForm):\n  class Meta:\n    model = Note\n    fields = ('title', 'description', 'theme',)\n    title = forms.CharField(\n      label='',\n      required=True,\n      widget=forms.TextInput(\n        attrs={\n            \"class\": \"form-control\",",
+        "detail": "agenda.forms",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "agenda.helper",
+        "description": "agenda.helper",
+        "peekOfCode": "def get_current_user():\n    active_sessions = Session.objects.filter(expire_date__gte=timezone.now())\n    user_id_list = []\n    for session in active_sessions:\n        data = session.get_decoded()\n        user_id_list.append(data.get('_auth_user_id', None))\n    user = User.objects.get(id=user_id_list[0])\n    return user",
+        "detail": "agenda.helper",
+        "documentation": {}
+    },
+    {
+        "label": "Note",
+        "kind": 6,
+        "importPath": "agenda.models",
+        "description": "agenda.models",
+        "peekOfCode": "class Note(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    title = models.CharField(max_length=200, unique=True)\n    description = models.TextField()\n    theme = models.CharField(max_length=15, choices=THEME)\n    created_date = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.title\n    def get_absolute_url(self):\n        return reverse('agenda:note_detail', args=(self.id,))",
+        "detail": "agenda.models",
+        "documentation": {}
+    },
+    {
+        "label": "THEME",
+        "kind": 5,
+        "importPath": "agenda.models",
+        "description": "agenda.models",
+        "peekOfCode": "THEME = (\n    ('bg-primary', 'Blue'),\n    ('bg-success', 'Vert'), \n    ('bg-warning', 'Jaune'),\n    ('bg-dark', 'Noir'),\n    ('bg-pink', 'Violet'),\n    ('bg-danger', 'Rouge'), \n)\n# Create your models here.\nclass Note(models.Model):",
+        "detail": "agenda.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "agenda.urls",
+        "description": "agenda.urls",
+        "peekOfCode": "app_name = 'agenda'\nurlpatterns = [\n    path('agenda_view/', agenda_view, name='agenda_view'),\n    path('agenda_detail/', agenda_detail, name='agenda_detail'),\n    path('notes/note_view/', note_view, name='note_view'),\n    path('notes/note_detail/<int:id>/', note_detail, name='note_detail'),\n]",
+        "detail": "agenda.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "agenda.urls",
+        "description": "agenda.urls",
+        "peekOfCode": "urlpatterns = [\n    path('agenda_view/', agenda_view, name='agenda_view'),\n    path('agenda_detail/', agenda_detail, name='agenda_detail'),\n    path('notes/note_view/', note_view, name='note_view'),\n    path('notes/note_detail/<int:id>/', note_detail, name='note_detail'),\n]",
+        "detail": "agenda.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Calendar",
+        "kind": 6,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "class Calendar(HTMLCalendar):\n\tdef __init__(self, year=None, month=None):\n\t\tself.year = year\n\t\tself.month = month\n\t\tsuper(Calendar, self).__init__()\n\t# formats a day as a td\n\t# filter events by day\n\tdef formatday(self, day, events):\n\t\tevents_per_day = events.filter(start_time__day=day)\n\t\td = ''",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.year",
+        "kind": 5,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "\t\tself.year = year\n\t\tself.month = month\n\t\tsuper(Calendar, self).__init__()\n\t# formats a day as a td\n\t# filter events by day\n\tdef formatday(self, day, events):\n\t\tevents_per_day = events.filter(start_time__day=day)\n\t\td = ''\n\t\tfor event in events_per_day:\n\t\t\td += f'<li> {event.get_html_url} </li>'",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.month",
+        "kind": 5,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "\t\tself.month = month\n\t\tsuper(Calendar, self).__init__()\n\t# formats a day as a td\n\t# filter events by day\n\tdef formatday(self, day, events):\n\t\tevents_per_day = events.filter(start_time__day=day)\n\t\td = ''\n\t\tfor event in events_per_day:\n\t\t\td += f'<li> {event.get_html_url} </li>'\n\t\tif day != 0:",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tevents_per_day",
+        "kind": 5,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "\t\tevents_per_day = events.filter(start_time__day=day)\n\t\td = ''\n\t\tfor event in events_per_day:\n\t\t\td += f'<li> {event.get_html_url} </li>'\n\t\tif day != 0:\n\t\t\treturn f\"<td><span class='date'>{day}</span><ul> {d} </ul></td>\"\n\t\treturn '<td></td>'\n\t# formats a week as a tr \n\tdef formatweek(self, theweek, events):\n\t\tweek = ''",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\td",
+        "kind": 5,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "\t\td = ''\n\t\tfor event in events_per_day:\n\t\t\td += f'<li> {event.get_html_url} </li>'\n\t\tif day != 0:\n\t\t\treturn f\"<td><span class='date'>{day}</span><ul> {d} </ul></td>\"\n\t\treturn '<td></td>'\n\t# formats a week as a tr \n\tdef formatweek(self, theweek, events):\n\t\tweek = ''\n\t\tfor d, weekday in theweek:",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tweek",
+        "kind": 5,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "\t\tweek = ''\n\t\tfor d, weekday in theweek:\n\t\t\tweek += self.formatday(d, events)\n\t\treturn f'<tr> {week} </tr>'\n\t# formats a month as a table\n\t# filter events by year and month\n\tdef formatmonth(self, withyear=True):\n\t\tevents = Event.objects.filter(start_time__year=self.year, start_time__month=self.month)\n\t\tcal = f'<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"calendar\">\\n'\n\t\tcal += f'{self.formatmonthname(self.year, self.month, withyear=withyear)}\\n'",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tevents",
+        "kind": 5,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "\t\tevents = Event.objects.filter(start_time__year=self.year, start_time__month=self.month)\n\t\tcal = f'<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"calendar\">\\n'\n\t\tcal += f'{self.formatmonthname(self.year, self.month, withyear=withyear)}\\n'\n\t\tcal += f'{self.formatweekheader()}\\n'\n\t\tfor week in self.monthdays2calendar(self.year, self.month):\n\t\t\tcal += f'{self.formatweek(week, events)}\\n'\n\t\treturn cal",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcal",
+        "kind": 5,
+        "importPath": "agenda.utils",
+        "description": "agenda.utils",
+        "peekOfCode": "\t\tcal = f'<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"calendar\">\\n'\n\t\tcal += f'{self.formatmonthname(self.year, self.month, withyear=withyear)}\\n'\n\t\tcal += f'{self.formatweekheader()}\\n'\n\t\tfor week in self.monthdays2calendar(self.year, self.month):\n\t\t\tcal += f'{self.formatweek(week, events)}\\n'\n\t\treturn cal",
+        "detail": "agenda.utils",
+        "documentation": {}
+    },
+    {
+        "label": "agenda_view",
+        "kind": 2,
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "peekOfCode": "def agenda_view(request):\n    context = {}\n    template_name = 'pages/agendas/agenda_view.html'\n    return render(request, template_name, context)\ndef agenda_detail(request, agenda_id):\n    context = {}\n    template_name = 'pages/agendas/agenda_detail.html'\n    return render(request, template_name, context)\ndef note_view(request):\n    form = NoteForm(request.POST)",
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "agenda_detail",
+        "kind": 2,
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "peekOfCode": "def agenda_detail(request, agenda_id):\n    context = {}\n    template_name = 'pages/agendas/agenda_detail.html'\n    return render(request, template_name, context)\ndef note_view(request):\n    form = NoteForm(request.POST)\n    if request.method == 'POST':\n        if form.is_valid():\n            note = form.save(commit=False)\n            note.user = request.user",
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "note_view",
+        "kind": 2,
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "peekOfCode": "def note_view(request):\n    form = NoteForm(request.POST)\n    if request.method == 'POST':\n        if form.is_valid():\n            note = form.save(commit=False)\n            note.user = request.user\n            note.save()\n            messages.success(request, \"note enregistrée!\")\n            # redirect to a new URL:\n            return HttpResponseRedirect(reverse('agenda:note_view'))",
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "note_detail",
+        "kind": 2,
+        "importPath": "agenda.views",
+        "description": "agenda.views",
+        "peekOfCode": "def note_detail(request, id):\n    note = Note.objects.get(id=id)\n    context = {\n        'note': note\n    }\n    template_name = 'pages/agendas/note_detail.html'\n    return render(request, template_name, context)",
+        "detail": "agenda.views",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "app.apps",
+        "description": "app.apps",
+        "peekOfCode": "class AppConfig(AppConfig):\n    name = 'app'",
+        "detail": "app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "app.urls",
+        "description": "app.urls",
+        "peekOfCode": "app_name = 'app'\nurlpatterns = [\n    path('index/', index, name='index'),\n]",
+        "detail": "app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "app.urls",
+        "description": "app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('index/', index, name='index'),\n]",
+        "detail": "app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "MultipleProxyMiddleware",
+        "kind": 6,
+        "importPath": "app.views",
+        "description": "app.views",
+        "peekOfCode": "class MultipleProxyMiddleware:\n    FORWARDED_FOR_FIELDS = [\n        'HTTP_X_FORWARDED_FOR',\n        'HTTP_X_FORWARDED_HOST',\n        'HTTP_X_FORWARDED_SERVER',\n    ]\n    def __init__(self, get_response):\n        self.get_response = get_response\n    def __call__(self, request):\n        \"\"\"",
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "app.views",
+        "description": "app.views",
+        "peekOfCode": "def index(request):\n    context = {\n    }\n    template_name = 'pages/app/index.html'\n    return render(request, template_name, context)",
+        "detail": "app.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crm3.asgi",
+        "description": "crm3.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "crm3.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'llncpf!^vvrmpcmrcbblg0_c-_l+-ri!p2a10q!+=y-7@(+c0b'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nADMINS = (\n    ('admin','admin@eventdrc.com')",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "SECRET_KEY = 'llncpf!^vvrmpcmrcbblg0_c-_l+-ri!p2a10q!+=y-7@(+c0b'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nADMINS = (\n    ('admin','admin@eventdrc.com')\n)\nMANAGERS = ADMINS\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nADMINS = (\n    ('admin','admin@eventdrc.com')\n)\nMANAGERS = ADMINS\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nADMINS = (\n    ('admin','admin@eventdrc.com')\n)\nMANAGERS = ADMINS\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ADMINS",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "ADMINS = (\n    ('admin','admin@eventdrc.com')\n)\nMANAGERS = ADMINS\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MANAGERS",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "MANAGERS = ADMINS\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    # My Apps",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    # My Apps\n    'pbx',\n    'app',",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'crm3.urls'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "ROOT_URLCONF = 'crm3.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'crm3.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES_SQLITE = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nDATABASES_PGSQL = {",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES_SQLITE",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "DATABASES_SQLITE = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nDATABASES_PGSQL = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'asterisk',",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES_PGSQL",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "DATABASES_PGSQL = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'asterisk',\n        'USER': 'asterisk',\n        'HOST': '192.168.43.215',\n        'PASSWORD': 'asterisk',\n        'PORT': '5432'\n    }\n}",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES_MARIADB",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "DATABASES_MARIADB = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'asterisk',\n        'USER': 'asterisk',\n        'PASSWORD': 'asterisk',\n        'HOST': '192.168.43.137',\n        'PORT': '3306',\n    }\n}",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "DATABASES = DATABASES_SQLITE\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'fr-fr'\nTIME_ZONE = 'Africa/Kinshasa'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nDATE_FORMAT = 'Y-m-d'\nDATETIME_FORMAT = 'Y-m-d H:i:s'\nTIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "TIME_ZONE = 'Africa/Kinshasa'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nDATE_FORMAT = 'Y-m-d'\nDATETIME_FORMAT = 'Y-m-d H:i:s'\nTIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nDATE_FORMAT = 'Y-m-d'\nDATETIME_FORMAT = 'Y-m-d H:i:s'\nTIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\nDATE_FORMAT = 'Y-m-d'\nDATETIME_FORMAT = 'Y-m-d H:i:s'\nTIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "USE_TZ = True\nDATE_FORMAT = 'Y-m-d'\nDATETIME_FORMAT = 'Y-m-d H:i:s'\nTIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nMEDIA_URL = '/media/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATE_FORMAT",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "DATE_FORMAT = 'Y-m-d'\nDATETIME_FORMAT = 'Y-m-d H:i:s'\nTIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATETIME_FORMAT",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "DATETIME_FORMAT = 'Y-m-d H:i:s'\nTIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Examples: \"http://foo.com/media/\", \"/media/\".",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_FORMAT",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "TIME_FORMAT = 'H:i:s'\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Examples: \"http://foo.com/media/\", \"/media/\".\nADMIN_MEDIA_PREFIX = '/media/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Examples: \"http://foo.com/media/\", \"/media/\".\nADMIN_MEDIA_PREFIX = '/media/'\nASTERISK_AUDIO_FILES = '/var/www/crm3/media/sounds/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "STATICFILES_DIRS = [os.path.join(BASE_DIR, \"static\")]\nSTATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Examples: \"http://foo.com/media/\", \"/media/\".\nADMIN_MEDIA_PREFIX = '/media/'\nASTERISK_AUDIO_FILES = '/var/www/crm3/media/sounds/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, \"static_root\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Examples: \"http://foo.com/media/\", \"/media/\".\nADMIN_MEDIA_PREFIX = '/media/'\nASTERISK_AUDIO_FILES = '/var/www/crm3/media/sounds/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Examples: \"http://foo.com/media/\", \"/media/\".\nADMIN_MEDIA_PREFIX = '/media/'\nASTERISK_AUDIO_FILES = '/var/www/crm3/media/sounds/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media-root')\n# Examples: \"http://foo.com/media/\", \"/media/\".\nADMIN_MEDIA_PREFIX = '/media/'\nASTERISK_AUDIO_FILES = '/var/www/crm3/media/sounds/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ADMIN_MEDIA_PREFIX",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "ADMIN_MEDIA_PREFIX = '/media/'\nASTERISK_AUDIO_FILES = '/var/www/crm3/media/sounds/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ASTERISK_AUDIO_FILES",
+        "kind": 5,
+        "importPath": "crm3.settings",
+        "description": "crm3.settings",
+        "peekOfCode": "ASTERISK_AUDIO_FILES = '/var/www/crm3/media/sounds/'",
+        "detail": "crm3.settings",
+        "documentation": {}
+    },
+    {
+        "label": "handler400",
+        "kind": 5,
+        "importPath": "crm3.urls",
+        "description": "crm3.urls",
+        "peekOfCode": "handler400 = 'crm3.views_errors_page.handler400'\nhandler403 = 'crm3.views_errors_page.handler403'\nhandler404 = 'crm3.views_errors_page.handler404'\nhandler500 = 'crm3.views_errors_page.handler500'\nhandler503 = 'crm3.views_errors_page.handler503'\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),",
+        "detail": "crm3.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler403",
+        "kind": 5,
+        "importPath": "crm3.urls",
+        "description": "crm3.urls",
+        "peekOfCode": "handler403 = 'crm3.views_errors_page.handler403'\nhandler404 = 'crm3.views_errors_page.handler404'\nhandler500 = 'crm3.views_errors_page.handler500'\nhandler503 = 'crm3.views_errors_page.handler503'\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),",
+        "detail": "crm3.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler404",
+        "kind": 5,
+        "importPath": "crm3.urls",
+        "description": "crm3.urls",
+        "peekOfCode": "handler404 = 'crm3.views_errors_page.handler404'\nhandler500 = 'crm3.views_errors_page.handler500'\nhandler503 = 'crm3.views_errors_page.handler503'\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),",
+        "detail": "crm3.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler500",
+        "kind": 5,
+        "importPath": "crm3.urls",
+        "description": "crm3.urls",
+        "peekOfCode": "handler500 = 'crm3.views_errors_page.handler500'\nhandler503 = 'crm3.views_errors_page.handler503'\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),\n    path('mail/', include('mail.urls')),",
+        "detail": "crm3.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler503",
+        "kind": 5,
+        "importPath": "crm3.urls",
+        "description": "crm3.urls",
+        "peekOfCode": "handler503 = 'crm3.views_errors_page.handler503'\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),\n    path('mail/', include('mail.urls')),\n]",
+        "detail": "crm3.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crm3.urls",
+        "description": "crm3.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('app/', include('app.urls')),\n    path('', include('accounts.urls')),\n    path('dashboard/', include('dashboard.urls')),\n    path('pbx/', include('pbx.urls')),\n    path('agenda/', include('agenda.urls')),\n    path('mail/', include('mail.urls')),\n]\nif settings.DEBUG:",
+        "detail": "crm3.urls",
+        "documentation": {}
+    },
+    {
+        "label": "handler400",
+        "kind": 2,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "def handler400(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-400.html')\n\tresponse.status_code = 400\n\treturn response\n# Permission denied\ndef handler403(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-403.html')\n\tresponse.status_code = 403\n\treturn response\n# Page not found",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "handler403",
+        "kind": 2,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "def handler403(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-403.html')\n\tresponse.status_code = 403\n\treturn response\n# Page not found\ndef handler404(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-404.html')\n\tresponse.status_code = 404\n\treturn response\n# Server error",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "handler404",
+        "kind": 2,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "def handler404(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-404.html')\n\tresponse.status_code = 404\n\treturn response\n# Server error\ndef handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-500.html')\n\tresponse.status_code = 500\n\treturn response\n#  503",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "handler500",
+        "kind": 2,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "def handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-500.html')\n\tresponse.status_code = 500\n\treturn response\n#  503\ndef handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-503.html')\n\tresponse.status_code = 503\n\treturn response",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "handler500",
+        "kind": 2,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "def handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-503.html')\n\tresponse.status_code = 503\n\treturn response",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "\tresponse.status_code = 400\n\treturn response\n# Permission denied\ndef handler403(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-403.html')\n\tresponse.status_code = 403\n\treturn response\n# Page not found\ndef handler404(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-404.html')",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "\tresponse.status_code = 403\n\treturn response\n# Page not found\ndef handler404(request, exception):\n\treturn render(request,  template_name='pages/errors/page-error-404.html')\n\tresponse.status_code = 404\n\treturn response\n# Server error\ndef handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-500.html')",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "\tresponse.status_code = 404\n\treturn response\n# Server error\ndef handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-500.html')\n\tresponse.status_code = 500\n\treturn response\n#  503\ndef handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-503.html')",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "\tresponse.status_code = 500\n\treturn response\n#  503\ndef handler500(request):\n\treturn render(request,  template_name='pages/errors/page-error-503.html')\n\tresponse.status_code = 503\n\treturn response",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "\tresponse.status_code",
+        "kind": 5,
+        "importPath": "crm3.views_errors_page",
+        "description": "crm3.views_errors_page",
+        "peekOfCode": "\tresponse.status_code = 503\n\treturn response",
+        "detail": "crm3.views_errors_page",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crm3.wsgi",
+        "description": "crm3.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "crm3.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "DashboardConfig",
+        "kind": 6,
+        "importPath": "dashboard.apps",
+        "description": "dashboard.apps",
+        "peekOfCode": "class DashboardConfig(AppConfig):\n    name = 'dashboard'",
+        "detail": "dashboard.apps",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "dashboard.urls",
+        "description": "dashboard.urls",
+        "peekOfCode": "app_name = 'dashboard'\nurlpatterns = [\n    path('dashboard/', dashboard, name='dashboard')\n]",
+        "detail": "dashboard.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "dashboard.urls",
+        "description": "dashboard.urls",
+        "peekOfCode": "urlpatterns = [\n    path('dashboard/', dashboard, name='dashboard')\n]",
+        "detail": "dashboard.urls",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def dashboard(request):\n    user = request.user\n    cdr_answered = Cdr.objects.filter(disposition = 'ANSWERED').count()-1\n    cdr_no_answer = Cdr.objects.filter(disposition = 'NO ANSWER').count()\n    cdr_busy = Cdr.objects.filter(disposition = 'BUSY').count()-1\n    cdr_failed = Cdr.objects.filter(disposition = 'FAILED').count()\n    context = {\n        'cdr_answered': cdr_answered,\n        'cdr_no_answer': cdr_no_answer,\n        'cdr_busy': cdr_busy,",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "population_chart",
+        "kind": 2,
+        "importPath": "dashboard.views",
+        "description": "dashboard.views",
+        "peekOfCode": "def population_chart(request):\n    labels = []\n    data = []\n    queryset = Cdr.objects.values('country__name').annotate(country_population=Sum('population')).order_by('-country_population')\n    for entry in queryset:\n        labels.append(entry['country__name'])\n        data.append(entry['country_population'])\n    return JsonResponse(data={\n        'labels': labels,\n        'data': data,",
+        "detail": "dashboard.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mail.migrations.0001_initial",
+        "description": "mail.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Mail',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n            ],",
+        "detail": "mail.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "MailConfig",
+        "kind": 6,
+        "importPath": "mail.apps",
+        "description": "mail.apps",
+        "peekOfCode": "class MailConfig(AppConfig):\n    name = 'mail'",
+        "detail": "mail.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ContactForm",
+        "kind": 6,
+        "importPath": "mail.forms",
+        "description": "mail.forms",
+        "peekOfCode": "class ContactForm(forms.Form):\n    subject = forms.CharField(max_length=100)\n    message = forms.CharField(widget=forms.Textarea)\n    sender = forms.EmailField()\n    cc_myself = forms.BooleanField(required=False)",
+        "detail": "mail.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Mail",
+        "kind": 6,
+        "importPath": "mail.models",
+        "description": "mail.models",
+        "peekOfCode": "class Mail(models.Model):\n    pass",
+        "detail": "mail.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "mail.urls",
+        "description": "mail.urls",
+        "peekOfCode": "app_name = 'mail'\nurlpatterns = [\n    path('mail_inbox/', mail_inbox, name='mail_inbox'),\n    path('mail_write/', mail_write, name='mail_write'),\n    path('mail_read/', mail_read, name='mail_read'),\n    path('contact_us/', contact_us, name='contact_us'),\n]",
+        "detail": "mail.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mail.urls",
+        "description": "mail.urls",
+        "peekOfCode": "urlpatterns = [\n    path('mail_inbox/', mail_inbox, name='mail_inbox'),\n    path('mail_write/', mail_write, name='mail_write'),\n    path('mail_read/', mail_read, name='mail_read'),\n    path('contact_us/', contact_us, name='contact_us'),\n]",
+        "detail": "mail.urls",
+        "documentation": {}
+    },
+    {
+        "label": "mail_inbox",
+        "kind": 2,
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "peekOfCode": "def mail_inbox(request):\n    context = {}\n    template_name= 'pages/mails/mail_inbox.html'\n    return render(request, template_name, context)\ndef mail_write(request):\n    context = {}\n    template_name= 'pages/mails/mail_write.html'\n    return render(request, template_name, context)\ndef mail_read(request):\n    context = {}",
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "mail_write",
+        "kind": 2,
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "peekOfCode": "def mail_write(request):\n    context = {}\n    template_name= 'pages/mails/mail_write.html'\n    return render(request, template_name, context)\ndef mail_read(request):\n    context = {}\n    template_name= 'pages/mails/mail_read.html'\n    return render(request, template_name, context)\ndef contact_us(request):\n    if form.is_valid():",
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "mail_read",
+        "kind": 2,
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "peekOfCode": "def mail_read(request):\n    context = {}\n    template_name= 'pages/mails/mail_read.html'\n    return render(request, template_name, context)\ndef contact_us(request):\n    if form.is_valid():\n        subject = form.cleaned_data['subject']\n        message = form.cleaned_data['message']\n        sender = form.cleaned_data['sender']\n        cc_myself = form.cleaned_data['cc_myself']",
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "contact_us",
+        "kind": 2,
+        "importPath": "mail.views",
+        "description": "mail.views",
+        "peekOfCode": "def contact_us(request):\n    if form.is_valid():\n        subject = form.cleaned_data['subject']\n        message = form.cleaned_data['message']\n        sender = form.cleaned_data['sender']\n        cc_myself = form.cleaned_data['cc_myself']\n        recipients = ['info@example.com']\n        if cc_myself:\n            recipients.append(sender)\n        send_mail(subject, message, sender, recipients)",
+        "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pbx.migrations.0001_initial",
+        "description": "pbx.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AsteriskPublication',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('devicestate_publish', models.CharField(blank=True, max_length=40, null=True)),",
+        "detail": "pbx.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pbx.migrations.0002_auto_20210330_2234",
+        "description": "pbx.migrations.0002_auto_20210330_2234",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('pbx', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='QueueLog',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('time', models.CharField(db_index=True, editable=False, max_length=20, null=True)),",
+        "detail": "pbx.migrations.0002_auto_20210330_2234",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pbx.migrations.0003_auto_20210331_0548",
+        "description": "pbx.migrations.0003_auto_20210331_0548",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('pbx', '0002_auto_20210330_2234'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='contexts',\n            name='full_name',\n            field=models.CharField(max_length=25, verbose_name='la description'),\n        ),",
+        "detail": "pbx.migrations.0003_auto_20210331_0548",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pbx.migrations.0004_auto_20210331_0628",
+        "description": "pbx.migrations.0004_auto_20210331_0628",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('pbx', '0003_auto_20210331_0548'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='ps_auths',\n            name='auth_type',\n            field=models.CharField(blank=True, default='userpass', max_length=200, null=True),\n        ),",
+        "detail": "pbx.migrations.0004_auto_20210331_0628",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pbx.migrations.0005_auto_20210404_0829",
+        "description": "pbx.migrations.0005_auto_20210404_0829",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('pbx', '0004_auto_20210331_0628'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='asteriskpublication',\n            options={'verbose_name': 'Ps_asterisk_publications', 'verbose_name_plural': 'Ps_asterisk_publications'},\n        ),\n        migrations.AlterModelOptions(",
+        "detail": "pbx.migrations.0005_auto_20210404_0829",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "pbx.migrations.0006_auto_20210404_0830",
+        "description": "pbx.migrations.0006_auto_20210404_0830",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('pbx', '0005_auto_20210404_0829'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='ps_auths',\n            name='username',\n            field=models.CharField(help_text='101', max_length=40),\n        ),",
+        "detail": "pbx.migrations.0006_auto_20210404_0830",
+        "documentation": {}
+    },
+    {
+        "label": "ContextsAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class ContextsAdmin(admin.ModelAdmin):\n    list_display = ('name', 'full_name', 'incoming',)\nclass CdrAdmin(admin.ModelAdmin):\n    def billsec_norm(obj):\n        return timedelta(seconds=obj.billsec)\n    billsec_norm.short_description = u'Min.'\n    def linksrc(self):\n        return u\"\"\"<a style='font-size: 12px' href='/admin/pbx/cdr/?accountcode=%s'><b>%s</b></a> <a href='?src=%s'><img style='float: right' src='/media/img/filter.png'></a>\"\"\" % (self.accountcode, self.src, self.src)\n    linksrc.allow_tags = True\n    linksrc.short_description = u'Numéro sortant | Filtre'",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CdrAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class CdrAdmin(admin.ModelAdmin):\n    def billsec_norm(obj):\n        return timedelta(seconds=obj.billsec)\n    billsec_norm.short_description = u'Min.'\n    def linksrc(self):\n        return u\"\"\"<a style='font-size: 12px' href='/admin/pbx/cdr/?accountcode=%s'><b>%s</b></a> <a href='?src=%s'><img style='float: right' src='/media/img/filter.png'></a>\"\"\" % (self.accountcode, self.src, self.src)\n    linksrc.allow_tags = True\n    linksrc.short_description = u'Numéro sortant | Filtre'\n    def linkdst(self):\n        return u\"\"\"%s<a href='?dst=%s'><img style='float: right' src='/media/img/filter.png'></a>\"\"\" % (self.dst, self.dst)",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CelAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class CelAdmin(admin.ModelAdmin):\n    list_display = ('uniqueid', 'eventtime', 'amaflags',\n                    'context', 'accountcode', 'cid_name', 'exten')\n    search_fields = ('uniqueid', 'exten')\n    list_display_links = ('uniqueid',)\n    ordering = ['-eventtime', ]\n    read_only_list = ('uniqueid', 'eventtime', 'amaflags',\n                      'context', 'accountcode', 'cid_name', 'exten')\n    def get_actions(self, request):\n        \"\"\"",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ExtensionsAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class ExtensionsAdmin(admin.ModelAdmin):\n    list_display = ('id', 'context', 'exten', 'priority', 'app', 'appdata', )\n    ordering = ['context__name', 'exten', 'priority', ]\n    search_fields = ('=app', 'appdata')\n    list_filter = ('context', 'exten')\n    # list_editable = ('context', 'exten','priority', 'app', 'appdata', )\n    list_display_links = ('id',)\nclass Sip_confAdmin(admin.ModelAdmin):\n    list_display = ('name', 'secret', 'callerid', 'context', 'host', 'ipaddr')\n    list_filter = ('context', 'amaflags', 'dtmfmode')",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Sip_confAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class Sip_confAdmin(admin.ModelAdmin):\n    list_display = ('name', 'secret', 'callerid', 'context', 'host', 'ipaddr')\n    list_filter = ('context', 'amaflags', 'dtmfmode')\n    search_fields = ('name',)\n    ordering = ['name',]\n    radio_fields = {\"dtmfmode\": admin.VERTICAL, \"insecure\": admin.VERTICAL, \"type\": admin.VERTICAL, \"amaflags\": admin.VERTICAL,  }\n    def get_readonly_fields(self, request, obj=None):\n        fields = super(Sip_confAdmin, self).get_readonly_fields(request, obj)\n        if not request.user.is_superuser:\n            return ('host','nat','type','amaflags','callgroup','callerid',",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EndpointsAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class EndpointsAdmin(admin.ModelAdmin):\n    list_display = ('id', 'context', 'aors', 'auth', 'mailboxes', 'transport', )\n    ordering = ['id', 'context', 'aors', 'auth', 'mailboxes', 'transport',]\n    search_fields = ('=id', 'context')\n    list_filter = ('context', 'id')\n    list_editable = ('context', 'aors', 'auth', 'mailboxes', 'transport',)\n    list_display_links = ('id',)\nclass VoicemailAdmin(admin.ModelAdmin):\n    list_display = ('mailbox', 'password', 'stamp')\n    search_fields = ('mailbox',)",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "VoicemailAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class VoicemailAdmin(admin.ModelAdmin):\n    list_display = ('mailbox', 'password', 'stamp')\n    search_fields = ('mailbox',)\n    ordering = ['mailbox', ]\n    list_display_links = ('mailbox',)\n    def save_model(self, request, obj, form, change, *args, **kwargs):\n        if isinstance(obj.password, type(None)):\n            obj.password = ''\n        if len(obj.password) == 0:\n            obj.gen_passwd()",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "PbxConfig",
+        "kind": 6,
+        "importPath": "pbx.apps",
+        "description": "pbx.apps",
+        "peekOfCode": "class PbxConfig(AppConfig):\n    name = 'pbx'",
+        "detail": "pbx.apps",
+        "documentation": {}
+    },
+    {
+        "label": "APPS",
+        "kind": 5,
+        "importPath": "pbx.extensionsApps",
+        "description": "pbx.extensionsApps",
+        "peekOfCode": "APPS = (\n    (\"Dial\", u\"(Dial) Compose le numéro\"),\n    (\"HangUp\", u\"(HangUp) Posez le téléphone\"),\n    (\"Wait\", u\"(Wait) Attendez x secondes\"),\n    (\"Answer\", u\"(Answer) Décrocher le téléphone\"),\n    (\"AddQueueMember\", u\"AddQueueMember (file d'attente, canal) Supprimer du groupe\"),\n    (\"Queue\", u\"Queue (queue_name) Aller à la file d'attente\"),\n    (\"PlayBack\", u\"(PlayBack) Lire le fichier son\"),\n    (\"Set\", u\"(Set) Définir la variable\"),\n    (\"Read\", u\"(Read) Lisez le clav en changement.\"),",
+        "detail": "pbx.extensionsApps",
+        "documentation": {}
+    },
+    {
+        "label": "MUSICONHOLD",
+        "kind": 5,
+        "importPath": "pbx.extensionsApps",
+        "description": "pbx.extensionsApps",
+        "peekOfCode": "MUSICONHOLD = (\n    ('ring 1', 'ring 1'),\n    ('ring 2', 'ring 2'),\n    ('ring 3', 'ring 3'),\n    ('ring 4', 'ring 4'),\n    ('ring 5', 'ring 5'),\n    ('ring 6', 'ring 6'),\n    ('ring 7', 'ring 7'),\n    ('ring 8', 'ring 8'),\n    ('ring 9', 'ring 9'),",
+        "detail": "pbx.extensionsApps",
+        "documentation": {}
+    },
+    {
+        "label": "Contexts",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Contexts(models.Model):\n    \"\"\"\n        Context for extensions\n    \"\"\"\n    name = models.CharField(max_length=25, primary_key=True,  blank=False, null=False, verbose_name='le contexte', editable=True)\n    full_name = models.CharField(max_length=25, blank=False, null=False, verbose_name='la description', editable=True)\n    incoming = models.BooleanField(default=False, null=False, blank=False, verbose_name='Entrant', choices=IN_OUT, db_index=True)\n    def __str__(self):\n        return self.name\n    class Meta:",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ps_aors",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Ps_aors(models.Model):\n    id                  = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    max_contacts        = models.PositiveIntegerField(u'max_contacts', choices=MAX_CONTACTS)\n    qualify_frequency   = models.PositiveIntegerField(u'Qualites de Frequence', choices=Q_FREQUENCE)\n    contact             = models.CharField(max_length=255, null=True, blank=True, db_column='contact')\n    default_expiration  = models.PositiveIntegerField(null=True, blank=True)\n    minimum_expiration  = models.PositiveIntegerField(null=True, blank=True)\n    remove_existing     = models.CharField(max_length=3, choices=YES_NO, null=True, blank=True)\n    authenticate_qualify = models.CharField(max_length=3, choices=YES_NO, null=True, blank=True)\n    maximum_expiration  = models.PositiveIntegerField(null=True, blank=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Ps_auths",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Ps_auths(models.Model):\n    '''\n        Module auth\n    '''\n    id             = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    auth_type      = models.CharField(max_length=200, null=True, blank=True, default='userpass')\n    nonce_lifetime = models.PositiveIntegerField(blank=True, null=True)\n    md5_cred       = models.CharField(max_length=40, blank=True, null=True)\n    password       = models.CharField(max_length=80)\n    realm          = models.CharField(max_length=40, blank=True, null=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Extensions",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Extensions(models.Model):\n    '''\n        Module de gestions d'appels\n    '''\n    context = models.ForeignKey(Contexts, on_delete=models.CASCADE, max_length=40, blank=True, null=True, db_column='context', db_index=True)\n    exten = models.CharField(max_length=40, blank=True, null=True, help_text='exten / template', db_index=True)\n    priority = models.IntegerField(null=True, blank=True, help_text='priorité')\n    app = models.CharField(max_length=40, choices=APPS, blank=True, null=True, help_text='application de plan de numérotation', db_index=True)\n    appdata = models.CharField(max_length=256, blank=True, null=True, help_text='paramètres d\\'application', db_index=True)\n    def __str__(self):",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Endpoints",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Endpoints(models.Model):\n    id = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    transport = models.CharField(u'transport', max_length=40, choices=TRANSPORT, null=True)\n    aors = models.PositiveIntegerField(unique=True, help_text='101', db_column='aors')\n    auth = models.PositiveIntegerField(unique=True, help_text='101', db_column='auth')\n    context = models.ForeignKey(Contexts, on_delete=models.CASCADE, max_length=200, db_column='context')\n    disallow = models.CharField(max_length=200, null=True, blank=True, default='all', choices=ALLOW)\n    allow = models.CharField(max_length=200, null=True, blank=True, default='all', choices=ALLOW)\n    direct_media = models.CharField(max_length=3, choices=YES_NO, null=True, blank=True)\n    deny = models.CharField(max_length=95, blank=True, null=True, default='0.0.0.0/0', verbose_name='sous-réseaux interdits')",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cdr",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Cdr(models.Model):\n    calldate        = models.DateTimeField()\n    clid            = models.CharField(max_length=80, null=True, blank=True)\n    src             = models.CharField(max_length=80, null=True, blank=True)\n    dst             = models.CharField(max_length=80, null=True, blank=True)\n    dcontext        = models.CharField(max_length=80, null=True, blank=True)\n    channel         = models.CharField(max_length=80, null=True, blank=True)\n    dstchannel      = models.CharField(max_length=80, null=True, blank=True)\n    lastapp         = models.CharField(max_length=80, null=True, blank=True)\n    lastdata        = models.CharField(max_length=80, null=True, blank=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "IvrDetails",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class IvrDetails(models.Model):\n    name = models.CharField(max_length=50, blank=True, null=True)\n    description = models.CharField(max_length=150, blank=True, null=True)\n    announcement = models.IntegerField(blank=True, null=True)\n    directdial = models.CharField(max_length=50, blank=True, null=True)\n    invalid_loops = models.CharField(max_length=10, blank=True, null=True)\n    invalid_retry_recording = models.CharField(max_length=25, blank=True, null=True)\n    invalid_destination = models.CharField(max_length=50, blank=True, null=True)\n    timeout_enabled = models.CharField(max_length=50, blank=True, null=True)\n    invalid_recording = models.CharField(max_length=25, blank=True, null=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cel",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Cel(models.Model):\n    \"\"\"\n       SQL CREATE TABLE cel\n    \"\"\"\n    eventtime = models.DateTimeField(auto_now_add=True, blank=True, null=True)\n    eventtype = models.CharField(max_length=80, default='', blank=True, null=True)\n    userdeftype = models.CharField(max_length=80, default='', blank=True, null=True)\n    cid_name = models.CharField(max_length=80, default='', blank=True, null=True)\n    cid_num = models.CharField(max_length=80, default='', blank=True, null=True)\n    cid_ani = models.CharField(max_length=80, default='', blank=True, null=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Contacts",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Contacts(models.Model):\n    uri = models.CharField(max_length=511, null=True, blank=True)\n    expiration_time = models.IntegerField(null=True, blank=True, verbose_name='expiration_time')\n    quality_frequency = models.IntegerField(null=True, blank=True, verbose_name='quality_frequency')\n    outbound_proxy = models.CharField(max_length=40, null=True, blank=True)\n    path = models.TextField(null=True, blank=True, verbose_name='path')\n    user_agent = models.CharField(max_length=255, null=True, blank=True)\n    quality_timeout = models.FloatField(null=True, blank=True, verbose_name='quality_timeout')\n    reg_server = models.CharField(max_length=255, null=True, blank=True)\n    authenticate_quality = models.CharField(max_length=3, choices=YES_NO, null=True, blank=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "AsteriskPublication",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class AsteriskPublication(models.Model):\n    devicestate_publish = models.CharField(max_length=40, null=True, blank=True)\n    mailboxstate_publish = models.CharField(max_length=40, null=True, blank=True)\n    device_state = models.CharField(max_length=128, choices=YES_NO, null=True, blank=True)\n    device_state_filter = models.CharField(max_length=256, null=True, blank=True)\n    mailbox_state = models.CharField(max_length=3, choices=YES_NO, null=True, blank=True)\n    mailbox_state_filter = models.CharField(max_length=256, null=True, blank=True)\n    def __str__(self):\n        return self.devicestate_publish\n    class Meta:",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Endpoints_id_ips",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Endpoints_id_ips(models.Model):\n    endpoint = models.CharField(max_length=40, null=True, blank=True)\n    match = models.CharField(max_length=80, null=True, blank=True)\n    srv_lookups = models.CharField(max_length=3, choices=YES_NO, null=True, blank=True)\n    match_header = models.CharField(max_length=255, null=True, blank=True)\n    def __str__(self):\n        return self.endpoint\n    class Meta:\n        verbose_name = u'Ps_endpoint_id_ips'\n        verbose_name_plural = u'Ps_endpoint_id_ips'",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Queue(models.Model):\n    id = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    name = models.CharField(max_length=128, null=True, blank=True)\n    musiconhold = models.CharField(max_length=128, choices=MUSICONHOLD, null=True, blank=True)\n    announce = models.CharField(max_length=128, null=True, blank=True)\n    context = models.ForeignKey(\n        Contexts, on_delete=models.CASCADE, max_length=200, db_column='context')\n    timeout = models.IntegerField(null=True, blank=True)\n    ringinuse = models.CharField(\n        max_length=128, choices=YES_NO, null=True, blank=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QueueMember",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class QueueMember(models.Model):\n    id = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    queue_name = models.CharField(max_length=80, null=True, blank=True)\n    interface = models.CharField(max_length=80, null=True, blank=True)\n    membername = models.CharField(max_length=80, null=True, blank=True)\n    state_interface = models.CharField(max_length=80, null=True, blank=True)\n    penalty = models.IntegerField(null=True, blank=True)\n    paused = models.IntegerField(null=True, blank=True)\n    uniqueid = models.IntegerField(null=True, blank=True)\n    wrapuptime = models.IntegerField(null=True, blank=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QueuesConfig",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class QueuesConfig(models.Model):\n    id = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    extension = models.CharField(max_length=20, blank=True, null=True)\n    descr = models.CharField(max_length=35, blank=True, null=True)\n    grppre = models.CharField(max_length=100, blank=True, null=True)\n    alertinfo = models.CharField(max_length=254, blank=True, null=True)\n    ringing = models.IntegerField(blank=True, null=True)\n    maxwait = models.CharField(max_length=8, blank=True, null=True)\n    password = models.CharField(max_length=20, blank=True, null=True)\n    ivr_id = models.CharField(max_length=8, blank=True, null=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QueueRules",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class QueueRules(models.Model):\n    id = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    rule_name = models.CharField(max_length=80, blank=True, null=True)\n    time = models.CharField(max_length=32, blank=True, null=True)\n    min_penalty = models.CharField(max_length=32, blank=True, null=True)\n    max_penalty = models.CharField(max_length=32, blank=True, null=True)\n    def __str__(self):\n        return self.rule_name\n    class Meta:\n        verbose_name = u'Queues_rules'",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QueueLog",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class QueueLog(models.Model):\n    time = models.CharField(max_length=20, blank=False, null=True, editable=False, db_index=True)\n    callid = models.CharField(max_length=32, blank=True, null=False, editable=False, db_index=True)\n    queue = models.CharField(max_length=32, blank=True, null=False, editable=False, db_index=True, db_column='queuename')\n    agent = models.CharField(max_length=32, blank=True, null=False, editable=False, db_index=True)\n    event = models.CharField(max_length=32, blank=True, null=False, editable=False, db_index=True)\n    data = models.TextField(blank=True, null=False, editable=False)\n    class Meta:\n        db_table = 'queues_log'\n    def __unicode__(self):",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sip_conf",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Sip_conf(models.Model):\n    \"\"\"\n        Sip \n    \"\"\"\n    id = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    name = models.CharField(max_length=15, help_text='Numéro')\n    host = models.CharField(max_length=25, default='dynamic',\n                            help_text='Liaison à un hôte ou une adresse IP spécifique, ou \\'dynamique \\'')\n    nat = models.CharField(max_length=5, default='no',\n                           help_text='Autoriser ou non le travail via NAT', choices=NAT)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Sippeers",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class Sippeers(models.Model):\n    \"\"\"\n        Sippeers\n    \"\"\"\n    id = models.IntegerField(unique=True, primary_key=True, serialize=False, verbose_name='Unique ID', editable=True)\n    name = models.CharField(max_length=15, help_text='Numéro')\n    ipaddr = models.GenericIPAddressField(\n        blank=True, null=True, help_text='Addresse IP')\n    port = models.PositiveIntegerField(\n        blank=True, null=True, help_text='Port de clients non dynamiques')",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "VoiceMail",
+        "kind": 6,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "class VoiceMail(models.Model):\n    id = models.IntegerField(unique=True, primary_key=True,\n                             serialize=False, verbose_name='Unique ID', editable=True)\n    uniqueid = models.IntegerField(null=True, blank=True)\n    context = models.ForeignKey(Contexts, on_delete=models.CASCADE, blank=True, null=True, help_text='le contexte', db_column='context')\n    mailbox = models.CharField(max_length=80, null=True, blank=True)\n    password = models.CharField(max_length=80, null=True, blank=True)\n    fullname = models.CharField(max_length=80, null=True, blank=True)\n    alias = models.CharField(max_length=80, null=True, blank=True)\n    email = models.CharField(max_length=80, null=True, blank=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "ranged",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "ranged = [(i,i) for i in range(11)]\nrangedAMAFLAGS = [(i,i) for i in range(6)]\nMAX_CONTACTS = ranged\nAMAFLAGS = rangedAMAFLAGS\nQ_FREQUENCE = (\n    (30, 30),\n    (40, 40),\n    (50, 50),\n    (60, 60),\n)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "rangedAMAFLAGS",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "rangedAMAFLAGS = [(i,i) for i in range(6)]\nMAX_CONTACTS = ranged\nAMAFLAGS = rangedAMAFLAGS\nQ_FREQUENCE = (\n    (30, 30),\n    (40, 40),\n    (50, 50),\n    (60, 60),\n)\nYES_NO = (",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CONTACTS",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "MAX_CONTACTS = ranged\nAMAFLAGS = rangedAMAFLAGS\nQ_FREQUENCE = (\n    (30, 30),\n    (40, 40),\n    (50, 50),\n    (60, 60),\n)\nYES_NO = (\n    ('yes', 'yes'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "AMAFLAGS",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "AMAFLAGS = rangedAMAFLAGS\nQ_FREQUENCE = (\n    (30, 30),\n    (40, 40),\n    (50, 50),\n    (60, 60),\n)\nYES_NO = (\n    ('yes', 'yes'),\n    ('no', 'no'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q_FREQUENCE",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "Q_FREQUENCE = (\n    (30, 30),\n    (40, 40),\n    (50, 50),\n    (60, 60),\n)\nYES_NO = (\n    ('yes', 'yes'),\n    ('no', 'no'),\n)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "YES_NO",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "YES_NO = (\n    ('yes', 'yes'),\n    ('no', 'no'),\n)\nTRANSPORT = (\n    ('transport-udp', 'transport-udp'),\n    ('transport-tcp', 'transport-tcp'),\n)\nTRANSPORT_SIP = (\n    ('udp','udp'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "TRANSPORT",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "TRANSPORT = (\n    ('transport-udp', 'transport-udp'),\n    ('transport-tcp', 'transport-tcp'),\n)\nTRANSPORT_SIP = (\n    ('udp','udp'),\n    ('tcp','tcp'),\n    ('udp,tcp','udp,tcp'),\n    ('tcp,udp','tcp,udp'),\n)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "TRANSPORT_SIP",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "TRANSPORT_SIP = (\n    ('udp','udp'),\n    ('tcp','tcp'),\n    ('udp,tcp','udp,tcp'),\n    ('tcp,udp','tcp,udp'),\n)\nALLOW = (\n    ('all', 'all'),\n    ('alaw', 'alaw'),\n    ('disallow', 'disallow'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOW",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "ALLOW = (\n    ('all', 'all'),\n    ('alaw', 'alaw'),\n    ('disallow', 'disallow'),\n)\nIN_OUT = (\n    (True, 'Entrant'),\n    (False, 'Sortant'),\n)\nQUEUE_AUTOPAUSE = (",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "IN_OUT",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "IN_OUT = (\n    (True, 'Entrant'),\n    (False, 'Sortant'),\n)\nQUEUE_AUTOPAUSE = (\n    ('queue', 'queue'),\n    ('autopause', 'autopause'),\n)\nQUEUE_STRATEGY = (\n    ('queue', 'queue'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QUEUE_AUTOPAUSE",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "QUEUE_AUTOPAUSE = (\n    ('queue', 'queue'),\n    ('autopause', 'autopause'),\n)\nQUEUE_STRATEGY = (\n    ('queue', 'queue'),\n    ('strategy', 'strategy'),\n)\nDISPOSITIONS=(\n    ('ANSWERED','ANSWERED'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "QUEUE_STRATEGY",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "QUEUE_STRATEGY = (\n    ('queue', 'queue'),\n    ('strategy', 'strategy'),\n)\nDISPOSITIONS=(\n    ('ANSWERED','ANSWERED'),\n    ('FAILED', 'FAILED'),\n    ('NO ANSWER','NO ANSWER'),\n    ('BUSY','BUSY'),\n    ('DOCUMENTATION','DOCUMENTATION'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_SIP",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "TYPE_SIP = (\n    ('friend', 'friend'),\n    ('peer', 'peer'),\n    ('user', 'user'),\n)\nINSECURE_SIP = (\n    ('port', 'port'),\n    ('very', 'very'),\n    ('no', 'no'),\n)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "INSECURE_SIP",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "INSECURE_SIP = (\n    ('port', 'port'),\n    ('very', 'very'),\n    ('no', 'no'),\n)\nDTMFMODE_SIP = (\n    ('rfc2833', 'rfc2833'),\n    ('info', 'info'),\n    ('shortinfo', 'shortinfo'),\n    ('inband', 'inband'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "DTMFMODE_SIP",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "DTMFMODE_SIP = (\n    ('rfc2833', 'rfc2833'),\n    ('info', 'info'),\n    ('shortinfo', 'shortinfo'),\n    ('inband', 'inband'),\n    ('auto', 'auto'),\n)\nTRUEFALSE = (\n    (False, False),\n    (True, True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "TRUEFALSE",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "TRUEFALSE = (\n    (False, False),\n    (True, True)\n)\nDIRECTMEDIA = (\n    ('yes', 'yes'),\n    ('no', 'no'),\n    ('nonat', 'nonat'),\n    ('update', 'update'),\n)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "DIRECTMEDIA",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "DIRECTMEDIA = (\n    ('yes', 'yes'),\n    ('no', 'no'),\n    ('nonat', 'nonat'),\n    ('update', 'update'),\n)\nINVITE = (\n    ('port', \"Ignorez le numéro de port d'où provient l'authentification\"),\n    ('invite', \"Ne nécessite pas d'INVITATION initiale pour l'authentification\"),\n    ('port,invite', \"N'exigez pas l'INVITE initiale pour l'authentification et ignorez le port d'où provient la demande\"),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "INVITE",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "INVITE = (\n    ('port', \"Ignorez le numéro de port d'où provient l'authentification\"),\n    ('invite', \"Ne nécessite pas d'INVITATION initiale pour l'authentification\"),\n    ('port,invite', \"N'exigez pas l'INVITE initiale pour l'authentification et ignorez le port d'où provient la demande\"),\n)\nNAT = (\n    ('yes', 'yes'),\n    ('no', 'no'),\n    ('never', 'never'),\n    ('route', 'route'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "NAT",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "NAT = (\n    ('yes', 'yes'),\n    ('no', 'no'),\n    ('never', 'never'),\n    ('route', 'route'),\n)\nCALLINGPRES = (\n    ('allowed_not_screened', 'allowed_not_screened'),\n    ('allowed_passed_screen', 'allowed_passed_screen'),\n    ('allowed_failed_screen', 'allowed_failed_screen'),",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "CALLINGPRES",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "CALLINGPRES = (\n    ('allowed_not_screened', 'allowed_not_screened'),\n    ('allowed_passed_screen', 'allowed_passed_screen'),\n    ('allowed_failed_screen', 'allowed_failed_screen'),\n    ('allowed', 'allowed'),\n    ('prohib_not_screened', 'prohib_not_screened'),\n    ('prohib_passed_screen', 'prohib_passed_screen'),\n    ('prohib_failed_screen', 'prohib_failed_screen'),\n    ('prohib', 'prohib'),\n)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "PROGRESSINBAND",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "PROGRESSINBAND = (\n    ('yes', 'yes'),\n    ('no', 'no'),\n    ('never', 'never'),\n)\nSESSIONTIMERS = (\n    ('accept', 'accept'),\n    ('refuse', 'refuse'),\n    ('originate', 'originate'),\n)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "SESSIONTIMERS",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "SESSIONTIMERS = (\n    ('accept', 'accept'),\n    ('refuse', 'refuse'),\n    ('originate', 'originate'),\n)\nSESSIONREFRESHER = (\n    ('uac', 'uac'),\n    ('uas', 'uas'),\n)\nclass Contexts(models.Model):",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "SESSIONREFRESHER",
+        "kind": 5,
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "peekOfCode": "SESSIONREFRESHER = (\n    ('uac', 'uac'),\n    ('uas', 'uas'),\n)\nclass Contexts(models.Model):\n    \"\"\"\n        Context for extensions\n    \"\"\"\n    name = models.CharField(max_length=25, primary_key=True,  blank=False, null=False, verbose_name='le contexte', editable=True)\n    full_name = models.CharField(max_length=25, blank=False, null=False, verbose_name='la description', editable=True)",
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "pbx.urls",
+        "description": "pbx.urls",
+        "peekOfCode": "app_name = 'pbx'\nurlpatterns = [\n    path('appels/', cdr_view, name='cdr_view'),\n    path('appels/<int:uniqueid>/', cdr_detail, name='cdr_detail'),\n]",
+        "detail": "pbx.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "pbx.urls",
+        "description": "pbx.urls",
+        "peekOfCode": "urlpatterns = [\n    path('appels/', cdr_view, name='cdr_view'),\n    path('appels/<int:uniqueid>/', cdr_detail, name='cdr_detail'),\n]",
+        "detail": "pbx.urls",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_view",
+        "kind": 2,
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "peekOfCode": "def cdr_view(request):\n    cdr_list = Cdr.objects.all().order_by('-calldate')[:10]\n    context = {\n         'cdr_list': cdr_list\n    }\n    template_name = 'pages/pbx/cdr_list.html'\n    return render(request, template_name, context)\ndef cdr_detail(request, uniqueid):\n    cdr = Cdr.objects.get(uniqueid=uniqueid)\n    context = {",
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_detail",
+        "kind": 2,
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "peekOfCode": "def cdr_detail(request, uniqueid):\n    cdr = Cdr.objects.get(uniqueid=uniqueid)\n    context = {\n         'cdr': cdr\n    }\n    template_name = 'pages/pbx/cdr_detail.html'\n    return render(request, template_name, context)",
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'crm3.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
