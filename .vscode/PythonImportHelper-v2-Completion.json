@@ -745,6 +745,14 @@
         "documentation": {}
     },
     {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -1010,6 +1018,15 @@
     },
     {
         "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
         "importPath": "datetime",
         "description": "datetime",
         "isExtraImport": true,
@@ -1170,11 +1187,27 @@
         "documentation": {}
     },
     {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
         "label": "generic",
         "importPath": "django.views",
         "description": "django.views",
         "isExtraImport": true,
         "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "mark_safe",
+        "importPath": "django.utils.safestring",
+        "description": "django.utils.safestring",
+        "isExtraImport": true,
+        "detail": "django.utils.safestring",
         "documentation": {}
     },
     {
@@ -1578,6 +1611,15 @@
         "description": "random",
         "isExtraImport": true,
         "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
         "documentation": {}
     },
     {
@@ -2796,6 +2838,60 @@
         "importPath": "pbx.admin",
         "description": "pbx.admin",
         "peekOfCode": "class VoicemailAdmin(admin.ModelAdmin):\n    list_display = ('mailbox', 'password', 'stamp')\n    search_fields = ('mailbox',)\n    ordering = ['mailbox', ]\n    list_display_links = ('mailbox',)\n    def save_model(self, request, obj, form, change, *args, **kwargs):\n        if isinstance(obj.password, type(None)):\n            obj.password = ''\n        if len(obj.password) == 0:\n            obj.gen_passwd()",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_detail",
+        "kind": 2,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "def cdr_detail(obj):\n    return mark_safe('<a href=\"{}\">View</a>'.format(\n        reverse('pbx:cdr_detail', args=[obj.uniqueid])))\ndef cdr_pdf(obj):\n    return mark_safe('<a href=\"{}\">PDF</a>'.format(\n        reverse('pbx:cdr_detail', args=[obj.uniqueid])))\ncdr_pdf.allow_tags = True\ncdr_pdf.short_description = 'PDF bill'\ndef export_to_csv(modeladmin, request, queryset):\n    opts = modeladmin.model._meta",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_pdf",
+        "kind": 2,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "def cdr_pdf(obj):\n    return mark_safe('<a href=\"{}\">PDF</a>'.format(\n        reverse('pbx:cdr_detail', args=[obj.uniqueid])))\ncdr_pdf.allow_tags = True\ncdr_pdf.short_description = 'PDF bill'\ndef export_to_csv(modeladmin, request, queryset):\n    opts = modeladmin.model._meta\n    response = HttpResponse(content_type='text/csv')\n    response['Content-Disposition'] = 'attachment;' \\\n                                      'filename={}.csv'.format(opts.verbose_name)",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "export_to_csv",
+        "kind": 2,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "def export_to_csv(modeladmin, request, queryset):\n    opts = modeladmin.model._meta\n    response = HttpResponse(content_type='text/csv')\n    response['Content-Disposition'] = 'attachment;' \\\n                                      'filename={}.csv'.format(opts.verbose_name)\n    writer = csv.writer(response)\n    fields = [field for field in opts.get_fields() if not field.many_to_many and not field.one_to_many]\n    # Write a first row with header information\n    writer.writerow([field.verbose_name for field in fields])\n    # Write data rows",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_pdf.allow_tags",
+        "kind": 5,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "cdr_pdf.allow_tags = True\ncdr_pdf.short_description = 'PDF bill'\ndef export_to_csv(modeladmin, request, queryset):\n    opts = modeladmin.model._meta\n    response = HttpResponse(content_type='text/csv')\n    response['Content-Disposition'] = 'attachment;' \\\n                                      'filename={}.csv'.format(opts.verbose_name)\n    writer = csv.writer(response)\n    fields = [field for field in opts.get_fields() if not field.many_to_many and not field.one_to_many]\n    # Write a first row with header information",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "cdr_pdf.short_description",
+        "kind": 5,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "cdr_pdf.short_description = 'PDF bill'\ndef export_to_csv(modeladmin, request, queryset):\n    opts = modeladmin.model._meta\n    response = HttpResponse(content_type='text/csv')\n    response['Content-Disposition'] = 'attachment;' \\\n                                      'filename={}.csv'.format(opts.verbose_name)\n    writer = csv.writer(response)\n    fields = [field for field in opts.get_fields() if not field.many_to_many and not field.one_to_many]\n    # Write a first row with header information\n    writer.writerow([field.verbose_name for field in fields])",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "export_to_csv.short_description",
+        "kind": 5,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "export_to_csv.short_description = 'Export to CSV'\nclass ContextsAdmin(admin.ModelAdmin):\n    list_display = ('name', 'full_name', 'incoming',)\nclass CdrAdmin(admin.ModelAdmin):\n    def billsec_norm(obj):\n        return timedelta(seconds=obj.billsec)\n    billsec_norm.short_description = u'Min.'\n    def linksrc(self):\n        return u\"\"\"<a style='font-size: 12px' href='/admin/pbx/cdr/?accountcode=%s'><b>%s</b></a> <a href='?src=%s'><img style='float: right' src='/media/img/filter.png'></a>\"\"\" % (self.accountcode, self.src, self.src)\n    linksrc.allow_tags = True",
         "detail": "pbx.admin",
         "documentation": {}
     },

@@ -2,7 +2,7 @@ from django.contrib import admin
 import operator
 from re import compile
 from django.db import models
-from django.http import HttpResponse, HttpResponseNotFound
+from django.http import HttpResponse, HttpResponseNotFound, HttpResponse
 from django.db.models.query import QuerySet
 from django.utils.encoding import smart_str
 from datetime import datetime, timedelta
@@ -10,6 +10,10 @@ from django import forms
 from django.db import models
 import string
 from random import choice
+import csv
+import datetime
+from django.urls import reverse
+from django.utils.safestring import mark_safe
 
 from pbx.models import (
     Ps_aors, Ps_auths, Endpoints, Contexts, Extensions, Cdr, Cel,
@@ -17,7 +21,47 @@ from pbx.models import (
     Queue, QueueMember, QueuesConfig, QueueRules, Sip_conf, Sippeers,
     VoiceMail
 )
+
 # Register your models here.
+def cdr_detail(obj):
+    return mark_safe('<a href="{}">View</a>'.format(
+        reverse('pbx:cdr_detail', args=[obj.uniqueid])))
+
+def cdr_pdf(obj):
+    return mark_safe('<a href="{}">PDF</a>'.format(
+        reverse('pbx:cdr_detail', args=[obj.uniqueid])))
+cdr_pdf.allow_tags = True
+cdr_pdf.short_description = 'PDF bill'
+
+
+def export_to_csv(modeladmin, request, queryset):
+    opts = modeladmin.model._meta
+    response = HttpResponse(content_type='text/csv')
+    response['Content-Disposition'] = 'attachment;' \
+                                      'filename={}.csv'.format(opts.verbose_name)
+    writer = csv.writer(response)
+
+    fields = [field for field in opts.get_fields() if not field.many_to_many and not field.one_to_many]
+    # Write a first row with header information
+    writer.writerow([field.verbose_name for field in fields])
+    # Write data rows
+    for obj in queryset:
+        data_row = []
+        for field in fields:
+            value = getattr(obj, field.name)
+            if isinstance(value, datetime.datetime):
+                value = value.strftime('%d/%m/%Y')
+            data_row.append(value)
+        writer.writerow(data_row)
+    return response
+
+
+export_to_csv.short_description = 'Export to CSV'
+
+
+
+
+
 
 
 class ContextsAdmin(admin.ModelAdmin):
@@ -40,21 +84,22 @@ class CdrAdmin(admin.ModelAdmin):
 
     def linkplay(self):
         if self.recordingfile:
-            return(u"<a href='#' onClick=\"set('/sounds/rec/%s', 'Appel de %s, sur: %s', $(this)); return false;\"><img src='/media/img/play.png' alt='Perdre' /></a>" % (self.recordingfile.name, self.src, self.dst))
+            return mark_safe("<a href='#' onClick=\"set('/sounds/rec/%s', 'Appel de %s, sur: %s', $(this)); return false;\"><img src='/media/img/play.png' alt='Perdre' /></a>" % (self.recordingfile.name, self.src, self.dst))
         else:
             return(u"&nbsp;")
     linkplay.allow_tags = True
     # linkplay.short_description = u''
 
-    list_display = ('calldate', linkplay, linksrc, linkdst, 'dcontext', billsec_norm, 'disposition',)
+    list_display = ('calldate', linkplay, linksrc, linkdst, 'dcontext', billsec_norm, 'disposition', cdr_detail,)
     list_filter = ('dcontext', 'disposition', 'amaflags', 'calldate',)
     search_fields = ('src','dst',)
+    actions = [export_to_csv]
 
     ordering = ['-calldate',]
 
     def get_actions(self, request):
         """
-            Retirer la barre de suppression
+            Fonction pour Retirer la barre de suppression
         """
         actions = super(CdrAdmin, self).get_actions(request)
         del actions['delete_selected']
