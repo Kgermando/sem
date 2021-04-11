@@ -50,6 +50,7 @@
                                         <th>dst</th>
                                         <th>duration</th>
                                         <th>billsec</th>
+                                        <th>lastapp</th>
                                         <th>disposition</th>
                                         <th>amaflags</th>
                                         <th>uniqueid</th>
@@ -59,11 +60,12 @@
                                     
                                     {% for cdr in cdr_list %}
                                         <tr>
-                                            <th><a href="{% url 'pbx:cdr_detail' cdr.uniqueid %} ">{{cdr.calldate|timesince}}</a></th>
+                                            <th><a href="{% url 'pbx:cdr_detail' cdr.uniqueid %} ">{{cdr.calldate}}</a></th>
                                             <td>{{cdr.clid}}</td>
                                             <td>{{cdr.src}}</td>
                                             <td>{{cdr.dst}}</td>
                                             <td>{{cdr.duration}}</td>
+                                            <td>{{cdr.lastapp}}</td>
                                             <td>{{cdr.billsec_norm}}</td>
                                             <td>{{cdr.disposition}}</td>
                                             

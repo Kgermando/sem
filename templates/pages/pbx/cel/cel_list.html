@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Dashboard{% endblock title %}
+
+
+{% block content %}
+
+<!--**********************************
+                Content body start
+            ***********************************-->
+<div class="content-body">
+
+    <div class="row page-titles mx-0">
+        <div class="col p-md-0">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="javascript:void(0)">Dashboard</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">PBX</a></li>
+                <li class="breadcrumb-item active"><a href="javascript:void(0)">CEL</a></li>
+            </ol>
+        </div>
+    </div>
+    <!-- row -->
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <div class="d-sm-flex justify-content-between mb-2">
+                                <h4>Call Event Logging</h4>
+                                <div class="media-reply__link">
+                                    <button class="btn btn-transparent p-0 ml-3 font-weight-bold">
+                                        <i class="fa fa-print" aria-hidden="true"></i>
+                                    </button>
+                                    <button class="btn btn-transparent p-0 ml-3 font-weight-bold">
+                                        <i class="fa fa-download" aria-hidden="true"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Eventtime</th>
+                                        <th>Unique id</th>
+                                        <th>Amaflags</th>
+                                        <th>Eventtype</th>
+                                        <th>cid_num</th>
+                                        <th>exten</th>
+                                        <th>context</th>
+                                        <th>channame</th>
+                                        <th>linkedid</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+                                    {% for cel in cel_list %}
+                                    <tr>
+                                        <th><a
+                                                href="{% url 'pbx:cel_detail' cel.uniqueid %} ">{{cel.eventtime}}</a>
+                                        </th>
+                                        <td>{{cel.uniqueid}}</td>
+                                        <td>{{cel.amaflags}}</td>
+                                        <td>{{cel.eventtype}}</td>
+                                        <td>{{cel.cid_num}}</td>
+                                        <td>{{cel.exten}}</td>
+                                        <td>{{cel.context}}</td>
+                                        <td>{{cel.channame}}</td>
+                                        <td>{{cel.linkedid}}</td>
+                                    </tr>
+                                    {% endfor %}
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!-- /# card -->
+            </div>
+        </div>
+
+    </div>
+    <!-- #/ container -->
+</div>
+<!--**********************************
+                Content body end
+            ***********************************-->
+
+
+{% endblock content %}

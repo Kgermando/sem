@@ -11,45 +11,43 @@ from agenda.models import Note
 def dashboard(request):
     
     user = request.user
+    labels = []
+    data = []
 
     # report CDR 
-    cdr_answered = Cdr.objects.filter(disposition = 'ANSWERED').count()
-    cdr_no_answer = Cdr.objects.filter(disposition = 'NO ANSWER').count()
-    cdr_busy = Cdr.objects.filter(disposition = 'BUSY').count()
-    cdr_failed = Cdr.objects.filter(disposition = 'FAILED').count()
+    cdr_answered = Cdr.objects.filter(lastapp='Dial').count()
+    cdr_no_answer = Cdr.objects.filter(lastapp = 'HangUp').count()
+    cdr_busy = Cdr.objects.filter(lastapp='Busy').count()
+    cdr_total = Cdr.objects.filter().count()
     cdr_duration = Cdr.objects.all().order_by('-calldate')[:1]
 
     # All users
     users = User.objects.all().count()
     # Notes
     note = Note.objects.all().count()
+
+    # Pie chart
+    queryset = Cdr.objects.all()
+    for cdr in queryset:
+        labels.append(cdr.lastapp)
+        data.append(cdr.duration)
+
     context = {
         'cdr_answered': cdr_answered,
         'cdr_no_answer': cdr_no_answer,
         'cdr_busy': cdr_busy,
-        'cdr_failed': cdr_failed,
+        'cdr_total': cdr_total,
         'cdr_duration': cdr_duration,
 
         'users': users,
-        'note': note
+        'note': note,
+
+        'labels': labels,
+        'data': data,
     }
     template_name = 'pages/dashboard/dashboard.html'
     return render(request, template_name, context)
 
-
-# def pie_chart(request):
-#     labels = []
-#     data = []
-
-#     queryset = City.objects.order_by('-population')[:5]
-#     for city in queryset:
-#         labels.append(city.name)
-#         data.append(city.population)
-
-#     return render(request, 'pie_chart.html', {
-#         'labels': labels,
-#         'data': data,
-#     })
 
 
 def population_chart(request):

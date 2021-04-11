@@ -208,6 +208,14 @@
         "documentation": {}
     },
     {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
@@ -417,6 +425,14 @@
         "documentation": {}
     },
     {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
         "label": "UserAdmin",
         "importPath": "django.contrib.auth.admin",
         "description": "django.contrib.auth.admin",
@@ -553,6 +569,22 @@
         "documentation": {}
     },
     {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
         "label": "forms",
         "importPath": "django",
         "description": "django",
@@ -598,6 +630,14 @@
         "description": "django.dispatch",
         "isExtraImport": true,
         "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
         "documentation": {}
     },
     {
@@ -889,6 +929,22 @@
         "documentation": {}
     },
     {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
         "label": "login_required",
         "importPath": "django.contrib.auth.decorators",
         "description": "django.contrib.auth.decorators",
@@ -1066,6 +1122,38 @@
         "documentation": {}
     },
     {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "datetime",
         "importPath": "datetime",
         "description": "datetime",
@@ -1164,6 +1252,22 @@
     },
     {
         "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseBadRequest",
         "importPath": "django.http",
         "description": "django.http",
         "isExtraImport": true,
@@ -1484,6 +1588,14 @@
         "documentation": {}
     },
     {
+        "label": "Cel",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
         "label": "basic_form",
         "importPath": "forms.views",
         "description": "forms.views",
@@ -1545,6 +1657,152 @@
         "description": "django.core.mail",
         "isExtraImport": true,
         "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "unicode_literals",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "AutoCompleteSelectMultipleField",
+        "importPath": "selectable.forms",
+        "description": "selectable.forms",
+        "isExtraImport": true,
+        "detail": "selectable.forms",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "sendsms",
+        "description": "sendsms",
+        "isExtraImport": true,
+        "detail": "sendsms",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "sendsms",
+        "description": "sendsms",
+        "isExtraImport": true,
+        "detail": "sendsms",
+        "documentation": {}
+    },
+    {
+        "label": "Contact",
+        "importPath": "helpline.models",
+        "description": "helpline.models",
+        "isExtraImport": true,
+        "detail": "helpline.models",
+        "documentation": {}
+    },
+    {
+        "label": "Messaging",
+        "importPath": "helpline.models",
+        "description": "helpline.models",
+        "isExtraImport": true,
+        "detail": "helpline.models",
+        "documentation": {}
+    },
+    {
+        "label": "ModelLookup",
+        "importPath": "selectable.base",
+        "description": "selectable.base",
+        "isExtraImport": true,
+        "detail": "selectable.base",
+        "documentation": {}
+    },
+    {
+        "label": "registry",
+        "importPath": "selectable.registry",
+        "description": "selectable.registry",
+        "isExtraImport": true,
+        "detail": "selectable.registry",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "selectable.decorators",
+        "description": "selectable.decorators",
+        "isExtraImport": true,
+        "detail": "selectable.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "importPath": "django.conf.urls",
+        "description": "django.conf.urls",
+        "isExtraImport": true,
+        "detail": "django.conf.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ReportFilterForm",
+        "importPath": "helpline.forms",
+        "description": "helpline.forms",
+        "isExtraImport": true,
+        "detail": "helpline.forms",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "csrf",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "require_POST",
+        "importPath": "django.views.decorators.http",
+        "description": "django.views.decorators.http",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.http",
+        "documentation": {}
+    },
+    {
+        "label": "django_tables2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_tables2",
+        "description": "django_tables2",
+        "detail": "django_tables2",
+        "documentation": {}
+    },
+    {
+        "label": "json_view",
+        "importPath": "jsonview.decorators",
+        "description": "jsonview.decorators",
+        "isExtraImport": true,
+        "detail": "jsonview.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
         "documentation": {}
     },
     {
@@ -1648,6 +1906,22 @@
     },
     {
         "label": "cdr_detail",
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "isExtraImport": true,
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "cel_view",
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "isExtraImport": true,
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "cel_detail",
         "importPath": "pbx.views",
         "description": "pbx.views",
         "isExtraImport": true,
@@ -2225,7 +2499,7 @@
         "kind": 5,
         "importPath": "crm3.settings",
         "description": "crm3.settings",
-        "peekOfCode": "DATABASES_MARIADB = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'asterisk',\n        'USER': 'asterisk',\n        'PASSWORD': 'asterisk',\n        'HOST': '192.168.43.137',\n        'PORT': '3306',\n    }\n}",
+        "peekOfCode": "DATABASES_MARIADB = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'asterisk',\n        'USER': 'asterisk',\n        'PASSWORD': 'asterisk',\n        'HOST': '192.168.43.19',\n        'PORT': '3306',\n    }\n}",
         "detail": "crm3.settings",
         "documentation": {}
     },
@@ -2549,7 +2823,7 @@
         "kind": 5,
         "importPath": "dashboard.urls",
         "description": "dashboard.urls",
-        "peekOfCode": "app_name = 'dashboard'\nurlpatterns = [\n    path('dashboard/', dashboard, name='dashboard')\n]",
+        "peekOfCode": "app_name = 'dashboard'\nurlpatterns = [\n    path('dashboard/', dashboard, name='dashboard'),\n]",
         "detail": "dashboard.urls",
         "documentation": {}
     },
@@ -2558,7 +2832,7 @@
         "kind": 5,
         "importPath": "dashboard.urls",
         "description": "dashboard.urls",
-        "peekOfCode": "urlpatterns = [\n    path('dashboard/', dashboard, name='dashboard')\n]",
+        "peekOfCode": "urlpatterns = [\n    path('dashboard/', dashboard, name='dashboard'),\n]",
         "detail": "dashboard.urls",
         "documentation": {}
     },
@@ -2567,7 +2841,7 @@
         "kind": 2,
         "importPath": "dashboard.views",
         "description": "dashboard.views",
-        "peekOfCode": "def dashboard(request):\n    user = request.user\n    # report CDR \n    cdr_answered = Cdr.objects.filter(disposition = 'ANSWERED').count()\n    cdr_no_answer = Cdr.objects.filter(disposition = 'NO ANSWER').count()\n    cdr_busy = Cdr.objects.filter(disposition = 'BUSY').count()\n    cdr_failed = Cdr.objects.filter(disposition = 'FAILED').count()\n    cdr_duration = Cdr.objects.all().order_by('-calldate')[:1]\n    # All users\n    users = User.objects.all().count()",
+        "peekOfCode": "def dashboard(request):\n    user = request.user\n    labels = []\n    data = []\n    # report CDR \n    cdr_answered = Cdr.objects.filter(lastapp='Dial').count()\n    cdr_no_answer = Cdr.objects.filter(lastapp = 'HangUp').count()\n    cdr_busy = Cdr.objects.filter(lastapp='Busy').count()\n    cdr_total = Cdr.objects.filter().count()\n    cdr_duration = Cdr.objects.all().order_by('-calldate')[:1]",
         "detail": "dashboard.views",
         "documentation": {}
     },
@@ -2722,6 +2996,123 @@
         "description": "mail.views",
         "peekOfCode": "def contact_us(request):\n    if form.is_valid():\n        subject = form.cleaned_data['subject']\n        message = form.cleaned_data['message']\n        sender = form.cleaned_data['sender']\n        cc_myself = form.cleaned_data['cc_myself']\n        recipients = ['info@example.com']\n        if cc_myself:\n            recipients.append(sender)\n        send_mail(subject, message, sender, recipients)",
         "detail": "mail.views",
+        "documentation": {}
+    },
+    {
+        "label": "MessagingConfig",
+        "kind": 6,
+        "importPath": "messaging.apps",
+        "description": "messaging.apps",
+        "peekOfCode": "class MessagingConfig(AppConfig):\n    name = 'messaging'",
+        "detail": "messaging.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MessageForm",
+        "kind": 6,
+        "importPath": "messaging.forms",
+        "description": "messaging.forms",
+        "peekOfCode": "class MessageForm(forms.Form):\n    message = forms.CharField(widget=forms.Textarea)\n    contacts = AutoCompleteSelectMultipleField(\n        lookup_class=RecipientLookup)\n    def __init__(self, *args, **kwargs):\n        super(MessageForm, self).__init__(*args, **kwargs)\n        self.fields['contacts'].widget.attrs['placeholder'] = 'Add a Recipient'\n        self.fields['message'].widget.attrs['placeholder'] = 'Message'\n    def send(self):\n        message = self.cleaned_data['message']",
+        "detail": "messaging.forms",
+        "documentation": {}
+    },
+    {
+        "label": "RecipientLookup",
+        "kind": 6,
+        "importPath": "messaging.lookups",
+        "description": "messaging.lookups",
+        "peekOfCode": "class RecipientLookup(ModelLookup):\n    model = Contact\n    search_fields = ('hl_contact__icontains',)\n    def get_query(self, request, term):\n        qs = super(RecipientLookup,self).get_query(request,term)\n        return qs.order_by('hl_contact').distinct()\n    def get_item_value(self,item):\n        try:\n            name = item.get_name()\n        except:",
+        "detail": "messaging.lookups",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "messaging.urls",
+        "description": "messaging.urls",
+        "peekOfCode": "urlpatterns = (\n    url(r'^$', views.messaging, name='messaging'),\n    url(r'^send/$', views.send, name='send_message'),\n    url('^ajax/sms/actions$', views.sms_actions, name='sms_actions'),\n    url('^ajax/sms/count$', views.sms_count, name='sms_count'),\n    url(r'^sms/send/$', views.sms_send, name='send_message'),\n    url('^sms/$', views.sms, name='sms_home'),\n    url('^sms/new/$', views.sms_new, name='sms_new'),\n)",
+        "detail": "messaging.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ReceievedColumn",
+        "kind": 6,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "class ReceievedColumn(tables.Column):\n    \"\"\"Return ctime from an epoch time stamp\"\"\"\n    def render(self, value):\n        os.environ['TZ'] = 'Africa/Nairobi'\n        time.tzset()\n        return time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(value))\nclass SMSTable(tables.Table):\n    action = tables.TemplateColumn(\"{% if record.hl_status == 'Inbox' %}<button class='createR' value='{{ record.id}}'>Read</button><button class='reply' value='{{ record.id}}'>Reply</button>{% elif record.hl_status == 'Old' %}<button class='reply' value='{{ record.id}}'>Reply</button>{% endif %}\",orderable=False)\n    hl_time = ReceievedColumn()\n    class Meta:",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "SMSTable",
+        "kind": 6,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "class SMSTable(tables.Table):\n    action = tables.TemplateColumn(\"{% if record.hl_status == 'Inbox' %}<button class='createR' value='{{ record.id}}'>Read</button><button class='reply' value='{{ record.id}}'>Reply</button>{% elif record.hl_status == 'Old' %}<button class='reply' value='{{ record.id}}'>Reply</button>{% endif %}\",orderable=False)\n    hl_time = ReceievedColumn()\n    class Meta:\n        model = Messaging\n        attrs = {'class' : 'table table-bordered table-striped dataTable', 'id':'report_table'}\n        ##unlocalise = ('holdtime','walkintime','talktime','callstart')\n        fields = {'id','hl_contact','hl_status','hl_content','hl_time','action'}\n        sequence = ('id','hl_contact','hl_status','hl_content','hl_time','action')",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "messaging",
+        "kind": 2,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "def messaging(request):\n    return render(request, 'messaging/dashboard.html', {\n        'form': MessageForm(),\n    })\n@login_required\n@require_POST\ndef send(request):\n    try:\n        form = MessageForm(request.POST)\n        if form.is_valid():",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "send",
+        "kind": 2,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "def send(request):\n    try:\n        form = MessageForm(request.POST)\n        if form.is_valid():\n            message = form.send()\n            for contact in message.contacts:\n                messenger = Messaging()\n                messenger.hl_service = 'SMSService'\n                messenger.hl_contact = contact\n                messenger.hl_key = randint(123456789, 987654321)",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "sms_actions",
+        "kind": 2,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "def sms_actions(request):\n    \"\"\"SMS Actions handles sending of SMS,\n    Marking as read and archiving\"\"\"\n    # Action will be communicated in the request.\n    action = request.POST.get('sendSMS')\n    message_id = request.POST.get('id')\n    if action == 'sendSMS':\n        form = MessageForm(request.POST)\n        if form.is_valid():\n            message = Messaging()",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "sms_send",
+        "kind": 2,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "def sms_send(request):\n    form = MessageForm(request.POST)\n    if form.is_valid():\n        message = form.send()\n        if len(message) == 1:\n            return HttpResponse('Your message was sent to 1 recipient.')\n        else:\n            msg = 'Your message was sent to {0} ' \\\n                'recipients.'.format(len(message))\n            return HttpResponse(msg)",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "sms",
+        "kind": 2,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "def sms(request):\n    sms = Messaging.objects.all()\n    form = ReportFilterForm(request.GET, initial={'queueid':'718874580'})\n    sms_form = MessageForm()\n    table = SMSTable(sms,order_by=(request.GET.get('sort','hl_status'),'-hl_time','id'))\n    return render(request,'messaging/sms.html',{'table':table,\n                                             'form':form,\n                                             'sms_form':sms_form,\n                                             'title':'SMS'})\n@login_required",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "sms_new",
+        "kind": 2,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "def sms_new(request):\n    form = MessageForm()\n    return render(request,'messaging/sms_new.html',{\n                                             'form':form,\n                                             'title':'SMS'}\n    )\n@login_required\ndef sms_count(request):\n    \"\"\"Return count of SMSs in Inbox\"\"\"\n    sms_count = Messaging.objects.filter(hl_status__exact='Inbox').count()",
+        "detail": "messaging.views",
+        "documentation": {}
+    },
+    {
+        "label": "sms_count",
+        "kind": 2,
+        "importPath": "messaging.views",
+        "description": "messaging.views",
+        "peekOfCode": "def sms_count(request):\n    \"\"\"Return count of SMSs in Inbox\"\"\"\n    sms_count = Messaging.objects.filter(hl_status__exact='Inbox').count()\n    sms_count = sms_count if sms_count else \"\"\n    return HttpResponse(sms_count)\nclass ReceievedColumn(tables.Column):\n    \"\"\"Return ctime from an epoch time stamp\"\"\"\n    def render(self, value):\n        os.environ['TZ'] = 'Africa/Nairobi'\n        time.tzset()",
+        "detail": "messaging.views",
         "documentation": {}
     },
     {
@@ -3305,7 +3696,7 @@
         "kind": 5,
         "importPath": "pbx.urls",
         "description": "pbx.urls",
-        "peekOfCode": "app_name = 'pbx'\nurlpatterns = [\n    path('appels/', cdr_view, name='cdr_view'),\n    path('appels/<int:uniqueid>/', cdr_detail, name='cdr_detail'),\n]",
+        "peekOfCode": "app_name = 'pbx'\nurlpatterns = [\n    path('pbx/cdr/', cdr_view, name='cdr_view'),\n    path('pbx/cdr/<int:uniqueid>/', cdr_detail, name='cdr_detail'),\n    path('pbx/cel/', cel_view, name='cel_view'),\n    path('pbx/cel/<int:uniqueid>/', cel_detail, name='cel_detail'),\n]",
         "detail": "pbx.urls",
         "documentation": {}
     },
@@ -3314,7 +3705,7 @@
         "kind": 5,
         "importPath": "pbx.urls",
         "description": "pbx.urls",
-        "peekOfCode": "urlpatterns = [\n    path('appels/', cdr_view, name='cdr_view'),\n    path('appels/<int:uniqueid>/', cdr_detail, name='cdr_detail'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('pbx/cdr/', cdr_view, name='cdr_view'),\n    path('pbx/cdr/<int:uniqueid>/', cdr_detail, name='cdr_detail'),\n    path('pbx/cel/', cel_view, name='cel_view'),\n    path('pbx/cel/<int:uniqueid>/', cel_detail, name='cel_detail'),\n]",
         "detail": "pbx.urls",
         "documentation": {}
     },
@@ -3323,7 +3714,7 @@
         "kind": 2,
         "importPath": "pbx.views",
         "description": "pbx.views",
-        "peekOfCode": "def cdr_view(request):\n    cdr_list = Cdr.objects.all().order_by('-calldate')[:10]\n    context = {\n         'cdr_list': cdr_list\n    }\n    template_name = 'pages/pbx/cdr_list.html'\n    return render(request, template_name, context)\ndef cdr_detail(request, uniqueid):\n    cdr = Cdr.objects.get(uniqueid=uniqueid)\n    context = {",
+        "peekOfCode": "def cdr_view(request):\n     \"\"\"\n          CDR LIst\n     \"\"\"\n     cdr_list = Cdr.objects.all().order_by('-calldate')[:10]\n     context = {\n          'cdr_list': cdr_list\n     }\n     template_name = 'pages/pbx/cdr/cdr_list.html'\n     return render(request, template_name, context)",
         "detail": "pbx.views",
         "documentation": {}
     },
@@ -3332,7 +3723,25 @@
         "kind": 2,
         "importPath": "pbx.views",
         "description": "pbx.views",
-        "peekOfCode": "def cdr_detail(request, uniqueid):\n    cdr = Cdr.objects.get(uniqueid=uniqueid)\n    context = {\n         'cdr': cdr\n    }\n    template_name = 'pages/pbx/cdr_detail.html'\n    return render(request, template_name, context)",
+        "peekOfCode": "def cdr_detail(request, uniqueid):\n     cdr = Cdr.objects.get(uniqueid=uniqueid)\n     context = {\n          'cdr': cdr\n     }\n     template_name = 'pages/pbx/cdr/cdr_detail.html'\n     return render(request, template_name, context)\ndef cel_view(request):\n     \"\"\"\n          CEL LIst",
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "cel_view",
+        "kind": 2,
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "peekOfCode": "def cel_view(request):\n     \"\"\"\n          CEL LIst\n     \"\"\"\n     cel_list = Cel.objects.all()[:10]\n     context = {\n          'cel_list': cel_list\n     }\n     template_name = 'pages/pbx/cel/cel_list.html'\n     return render(request, template_name, context)",
+        "detail": "pbx.views",
+        "documentation": {}
+    },
+    {
+        "label": "cel_detail",
+        "kind": 2,
+        "importPath": "pbx.views",
+        "description": "pbx.views",
+        "peekOfCode": "def cel_detail(request, uniqueid):\n     \"\"\"\n          CEL detail\n     \"\"\"\n     cel = Cel.objects.get(uniqueid=uniqueid)\n     context = {\n          'cel': cel\n     }\n     template_name = 'pages/pbx/cel/cel_detail.html'\n     return render(request, template_name, context)",
         "detail": "pbx.views",
         "documentation": {}
     },
