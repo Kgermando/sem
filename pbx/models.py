@@ -587,8 +587,8 @@ class Queue(models.Model):
     defaultrule = models.CharField(max_length=128, null=True, blank=True)
     timeoutpriority = models.CharField(max_length=128, null=True, blank=True)
 
-    def __str__(self):
-        return self.name
+    # def __str__(self):
+    #     return self.name
 
     class Meta:
         verbose_name = u'Queues'

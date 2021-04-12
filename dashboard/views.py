@@ -4,7 +4,7 @@ from django.db.models import Sum
 from django.http import JsonResponse
 from django.contrib.auth.models import User
 
-from pbx.models import Cdr, Cel
+from pbx.models import Cdr, Cel, Queue
 from agenda.models import Note
 # Create your views here.
 @login_required
@@ -20,6 +20,9 @@ def dashboard(request):
     cdr_busy = Cdr.objects.filter(lastapp='Busy').count()
     cdr_total = Cdr.objects.filter().count()
     cdr_duration = Cdr.objects.all().order_by('-calldate')[:1]
+
+    # Queue
+    queue_list = Queue.objects.all().count()
 
     # All users
     users = User.objects.all().count()
@@ -38,6 +41,8 @@ def dashboard(request):
         'cdr_busy': cdr_busy,
         'cdr_total': cdr_total,
         'cdr_duration': cdr_duration,
+
+        'queue_list' : queue_list,
 
         'users': users,
         'note': note,

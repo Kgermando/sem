@@ -1436,6 +1436,14 @@
         "documentation": {}
     },
     {
+        "label": "Queue",
+        "importPath": "pbx.models",
+        "description": "pbx.models",
+        "isExtraImport": true,
+        "detail": "pbx.models",
+        "documentation": {}
+    },
+    {
         "label": "Ps_aors",
         "importPath": "pbx.models",
         "description": "pbx.models",
@@ -3229,6 +3237,15 @@
         "importPath": "pbx.admin",
         "description": "pbx.admin",
         "peekOfCode": "class VoicemailAdmin(admin.ModelAdmin):\n    list_display = ('mailbox', 'password', 'stamp')\n    search_fields = ('mailbox',)\n    ordering = ['mailbox', ]\n    list_display_links = ('mailbox',)\n    def save_model(self, request, obj, form, change, *args, **kwargs):\n        if isinstance(obj.password, type(None)):\n            obj.password = ''\n        if len(obj.password) == 0:\n            obj.gen_passwd()",
+        "detail": "pbx.admin",
+        "documentation": {}
+    },
+    {
+        "label": "QueueAdmin",
+        "kind": 6,
+        "importPath": "pbx.admin",
+        "description": "pbx.admin",
+        "peekOfCode": "class QueueAdmin(admin.ModelAdmin):\n    list_display = ('id', 'context', 'musiconhold', 'name',)\nadmin.site.register(Ps_aors)\nadmin.site.register(Ps_auths)\nadmin.site.register(Endpoints, EndpointsAdmin)\nadmin.site.register(Contexts, ContextsAdmin)\nadmin.site.register(Extensions, ExtensionsAdmin)\nadmin.site.register(Cdr, CdrAdmin)\nadmin.site.register(Cel, CelAdmin)\nadmin.site.register(IvrDetails)",
         "detail": "pbx.admin",
         "documentation": {}
     },

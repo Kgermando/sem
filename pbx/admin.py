@@ -178,6 +178,11 @@ class VoicemailAdmin(admin.ModelAdmin):
         obj.payer = obj.mailbox.accountcode
         obj.save()
 
+
+class QueueAdmin(admin.ModelAdmin):
+    list_display = ('id', 'context', 'musiconhold', 'name',)
+
+
 admin.site.register(Ps_aors)
 admin.site.register(Ps_auths)
 admin.site.register(Endpoints, EndpointsAdmin)
@@ -189,7 +194,7 @@ admin.site.register(IvrDetails)
 admin.site.register(Contacts)
 admin.site.register(AsteriskPublication)
 admin.site.register(Endpoints_id_ips)
-admin.site.register(Queue)
+admin.site.register(Queue, QueueAdmin)
 admin.site.register(QueueMember)
 admin.site.register(QueuesConfig)
 admin.site.register(QueueRules)
