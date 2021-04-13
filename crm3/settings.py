@@ -113,10 +113,11 @@ DATABASES_MARIADB = {
         'NAME': 'asterisk',
         'USER': 'asterisk',
         'PASSWORD': 'asterisk',
-        'HOST': '192.168.43.137',
+        'HOST': '192.168.43.19',
         'PORT': '3306',
     }
 }
+
 
 DATABASES = DATABASES_MARIADB
 
