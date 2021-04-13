@@ -2507,7 +2507,7 @@
         "kind": 5,
         "importPath": "crm3.settings",
         "description": "crm3.settings",
-        "peekOfCode": "DATABASES_MARIADB = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'asterisk',\n        'USER': 'asterisk',\n        'PASSWORD': 'asterisk',\n        'HOST': '192.168.43.19',\n        'PORT': '3306',\n    }\n}",
+        "peekOfCode": "DATABASES_MARIADB = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'asterisk',\n        'USER': 'asterisk',\n        'PASSWORD': 'asterisk',\n        'HOST': '192.168.43.137',\n        'PORT': '3306',\n    }\n}",
         "detail": "crm3.settings",
         "documentation": {}
     },
